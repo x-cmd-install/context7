@@ -1,0 +1,58 @@
+about:
+  description: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+  license: MIT
+  homepage: https://context7.com
+  head: 4e980f6
+  archived: false
+  latestVersion: @upstash/context7-mcp@4.0.4
+  collectedAt: 2026-08-30T05:18:35Z
+timeline:
+  created: 2025-03-26
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 61399
+  watcher: 157
+  fork: 2958
+  release: 109
+  contributor: 136
+  pullRequest: 265
+  issue: 2270
+language:
+  TypeScript: 503420
+  JavaScript: 9968
+  Dockerfile: 867
+totalLine: 514255
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 9
+    mergedPR: 36
+    openPR: 20
+    closedIssue: 37
+    openIssue: 25
+    commit: 36
+  last90d:
+    since: 2026-06-01
+    release: 30
+    mergedPR: 112
+    openPR: 30
+    closedIssue: 176
+    openIssue: 29
+    commit: 119
+  last180d:
+    since: 2026-03-03
+    release: 61
+    mergedPR: 235
+    openPR: 30
+    closedIssue: 592
+    openIssue: 30
+    commit: 248
+  last360d:
+    since: 2025-09-04
+    release: 97
+    mergedPR: 389
+    openPR: 30
+    closedIssue: 1731
+    openIssue: 32
+    commit: 507
