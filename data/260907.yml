@@ -1,0 +1,161 @@
+about:
+  description: "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
+  license: MIT
+  homepage: https://context7.com
+  head: 6836bb4
+  archived: false
+  latestVersion: "@upstash/context7-mcp@4.0.5"
+  collectedAt: 2026-09-07T04:49:10Z
+timeline:
+  created: 2025-03-26
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
+popularity:
+  star: 61716
+  watcher: 162
+  fork: 2974
+  release: 112
+  contributor: 123
+  pullRequest: 785
+  issue: 2288
+language:
+  TypeScript: 552454
+  JavaScript: 10093
+  Dockerfile: 867
+totalBytes: 563414
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 11
+    mergedPR: 46
+    openPR: 26
+    closedIssue: 46
+    openIssue: 22
+    commit: 32
+  last60d:
+    since: 2026-07-09
+    release: 19
+    mergedPR: 68
+    openPR: 37
+    closedIssue: 103
+    openIssue: 24
+    commit: 63
+  last90d:
+    since: 2026-06-09
+    release: 29
+    mergedPR: 106
+    openPR: 40
+    closedIssue: 184
+    openIssue: 26
+    commit: 94
+  last180d:
+    since: 2026-03-11
+    release: 60
+    mergedPR: 224
+    openPR: 40
+    closedIssue: 534
+    openIssue: 28
+    commit: 216
+  last360d:
+    since: 2025-09-12
+    release: 99
+    mergedPR: 399
+    openPR: 40
+    closedIssue: 1734
+    openIssue: 30
+    commit: 495
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 508
+    openPR: 40
+    closedIssue: 2252
+    openIssue: 34
+    commit: 959
+total:
+  release: 112
+  mergedPR: 508
+  openPR: 40
+  closedIssue: 2254
+  openIssue: 34
+  commit: 959
+---
+path: /home/runner/.x-repo/github.com/upstash/context7
+collectedAt: 2026-09-07T04:49:13Z
+loc:
+  TypeScript:
+    code: 13896
+    comments: 664
+    blanks: 2131
+    files: 113
+  Yaml:
+    code: 6204
+    comments: 2
+    blanks: 558
+    files: 3
+  Json:
+    code: 5035
+    comments: 0
+    blanks: 0
+    files: 29
+  JavaScript:
+    code: 314
+    comments: 41
+    blanks: 11
+    files: 11
+  Svg:
+    code: 38
+    comments: 0
+    blanks: 0
+    files: 5
+  Dockerfile:
+    code: 17
+    comments: 6
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5991
+    blanks: 2682
+    files: 57
+total:
+  code: 28870
+  comments: 6793
+  blanks: 5425
+  files: 219
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:49:14+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
