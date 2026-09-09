@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":384898963,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4W8ReT","tag_name":"ctx7@0.5.11","target_commitish":"master","name":"ctx7@0.5.11","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T16:34:16Z","updated_at":"2026-09-08T16:34:27Z","published_at":"2026-09-08T16:34:27Z","assets":[],"body":"### Patch Changes\n\n- e127fa1: Add outbound-independent on-premise MCP setup through `ctx7 setup --base-url`, including secure interactive personal API-key entry and anonymous-auth discovery support.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
