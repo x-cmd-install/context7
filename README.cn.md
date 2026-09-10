@@ -4,7 +4,7 @@
 
 Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
-![context7](https://repo.x-cmd.io/context7.svg)
+![context7](https://repo.x-cmd.io/context7.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install context7
 
 - **最新版本**: `@upstash/context7-mcp@4.0.7` (2026-09-09)
 - **最近提交**: 2026-09-09
-- **发布时间**: 2026-09-09T14:02:08Z
 
 ## 流行度
 
-- **Star**: 61,820 · **Fork**: 2,976 · **开放 issue**: 2,297 · **贡献者**: 124
+- **Star**: 61,843 · **Fork**: 2,978 · **开放 issue**: 2,299 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 120 · **已合并 PR**: 519 · **开放 PR**: 32 · **已关闭 issue**: 2274 · **开放 issue**: 23 · **提交数**: 970
+- **发布数**: 120 · **已合并 PR**: 519 · **开放 PR**: 33 · **已关闭 issue**: 2274 · **开放 issue**: 25 · **提交数**: 970
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 19 | 47 | 18 | 56 | 10 | 43 |
-| 90d | 2026-06-12 | 34 | 110 | 32 | 195 | 14 | 105 |
-| 360d | 2025-09-15 | 100 | 410 | 32 | 1752 | 19 | 506 |
+| 30d | 2026-08-11 | 19 | 47 | 19 | 56 | 12 | 43 |
+| 90d | 2026-06-12 | 34 | 110 | 33 | 195 | 16 | 105 |
+| 360d | 2025-09-15 | 100 | 410 | 33 | 1752 | 21 | 506 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ context7 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:57:02Z._
