@@ -12,6 +12,18 @@ Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 x install context7
 ```
 
+## Code insight
+
+Total: **26,471** lines of code across **166** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 14,850 | 702 | 2,272 | 118 |
+| Yaml | 6,207 | 2 | 558 | 3 |
+| Json | 5,045 | 0 | 0 | 29 |
+| JavaScript | 314 | 41 | 11 | 11 |
+| Svg | 38 | 0 | 0 | 5 |
+
 ## Source
 
 - **Upstream**: <https://github.com/upstash/context7>
@@ -25,31 +37,22 @@ x install context7
 
 ## Popularity
 
-- **Stars**: 61,843 · **Forks**: 2,978 · **Open issues**: 2,299 · **Contributors**: 124
+- **Stars**: 61,852 · **Forks**: 2,979 · **Open issues**: 2,299 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 519 · **Open PRs**: 33 · **Closed issues**: 2274 · **Open issues**: 25 · **Commits**: 970
+- **Releases**: 120 · **Merged PRs**: 519 · **Open PRs**: 34 · **Closed issues**: 2274 · **Open issues**: 25 · **Commits**: 970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 19 | 47 | 19 | 56 | 12 | 43 |
-| 90d | 2026-06-12 | 34 | 110 | 33 | 195 | 16 | 105 |
-| 360d | 2025-09-15 | 100 | 410 | 33 | 1752 | 21 | 506 |
-
-## Code size
-
-Total: **26,471** lines of code across **166** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 14,850 | 702 | 2,272 | 118 |
-| Yaml | 6,207 | 2 | 558 | 3 |
-| Json | 5,045 | 0 | 0 | 29 |
-| JavaScript | 314 | 41 | 11 | 11 |
-| Svg | 38 | 0 | 0 | 5 |
+| 30d | 2026-08-11 | 19 | 47 | 20 | 56 | 12 | 43 |
+| last60d | 2026-07-12 | 27 | 77 | 31 | 115 | 15 | 74 |
+| 90d | 2026-06-12 | 34 | 110 | 34 | 195 | 16 | 105 |
+| last180d | 2026-03-14 | 66 | 228 | 34 | 527 | 19 | 227 |
+| 360d | 2025-09-15 | 100 | 410 | 34 | 1752 | 21 | 506 |
+| last720d | 2024-09-20 | 100 | 519 | 34 | 2272 | 25 | 970 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:58:50Z._
