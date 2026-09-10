@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":385567827,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4W-0xT","tag_name":"@upstash/context7-mcp@4.0.7","target_commitish":"master","name":"@upstash/context7-mcp@4.0.7","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T14:02:05Z","updated_at":"2026-09-09T14:02:08Z","published_at":"2026-09-09T14:02:08Z","assets":[],"body":"### Patch Changes\n\n- 0087bab: Allow the Claude Code plugin to use anonymous access when its API key header is empty.","reactions":{"total_count":2,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":0}}
