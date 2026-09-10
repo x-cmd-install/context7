@@ -43,14 +43,14 @@
   "body": "### Patch Changes\n\n- 0087bab: Allow the Claude Code plugin to use anonymous access when its API key header is empty.",
   "reactions": {
     "url": "https://api.github.com/repos/upstash/context7/releases/385567827/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 1,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   }
 }

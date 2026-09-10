@@ -7,7 +7,7 @@ about:
   latestVersion: "@upstash/context7-mcp@4.0.7"
   latestRelease: "@upstash/context7-mcp@4.0.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:56:53Z
+  collectedAt: 2026-09-10T23:58:45Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 61843
+  star: 61852
   watcher: 161
-  fork: 2978
+  fork: 2979
   release: 120
   contributor: 124
-  pullRequest: 802
+  pullRequest: 803
   issue: 2299
 language:
   TypeScript: 591167
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-11
     release: 19
     mergedPR: 47
-    openPR: 19
+    openPR: 20
     closedIssue: 56
     openIssue: 12
     commit: 43
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-12
     release: 27
     mergedPR: 77
-    openPR: 30
+    openPR: 31
     closedIssue: 115
     openIssue: 15
     commit: 74
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-12
     release: 34
     mergedPR: 110
-    openPR: 33
+    openPR: 34
     closedIssue: 195
     openIssue: 16
     commit: 105
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-14
     release: 66
     mergedPR: 228
-    openPR: 33
+    openPR: 34
     closedIssue: 527
     openIssue: 19
     commit: 227
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-15
     release: 100
     mergedPR: 410
-    openPR: 33
+    openPR: 34
     closedIssue: 1752
     openIssue: 21
     commit: 506
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 519
-    openPR: 33
+    openPR: 34
     closedIssue: 2272
     openIssue: 25
     commit: 970
 total:
   release: 120
   mergedPR: 519
-  openPR: 33
+  openPR: 34
   closedIssue: 2274
   openIssue: 25
   commit: 970
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-09-10T16:56:57Z
+collectedAt: 2026-09-10T23:58:47Z
 loc:
   TypeScript:
     code: 14850
