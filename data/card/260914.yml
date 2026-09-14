@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":386966503,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4XEKPn","tag_name":"@upstash/context7-mcp@4.1.0","target_commitish":"master","name":"@upstash/context7-mcp@4.1.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-11T10:50:15Z","updated_at":"2026-09-11T10:50:17Z","published_at":"2026-09-11T10:50:17Z","assets":[],"body":"### Minor Changes\n\n- 915abfe: Add bounded OpenTelemetry metrics for MCP requests, tools, authentication, and upstream API calls, exposed for Prometheus on the HTTP server's internal telemetry port.","reactions":{"total_count":2,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}

@@ -43,14 +43,14 @@
   "body": "### Minor Changes\n\n- 915abfe: Add bounded OpenTelemetry metrics for MCP requests, tools, authentication, and upstream API calls, exposed for Prometheus on the HTTP server's internal telemetry port.",
   "reactions": {
     "url": "https://api.github.com/repos/upstash/context7/releases/386966503/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   }
 }
