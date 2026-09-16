@@ -37,22 +37,22 @@ Total: **30,313** lines of code across **182** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 62,031 · **Forks**: 2,994 · **Open issues**: 2,308 · **Contributors**: 124
+- **Stars**: 62,070 · **Forks**: 3,000 · **Open issues**: 2,309 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 124 · **Merged PRs**: 523 · **Open PRs**: 37 · **Closed issues**: 2283 · **Open issues**: 25 · **Commits**: 974
+- **Releases**: 124 · **Merged PRs**: 523 · **Open PRs**: 41 · **Closed issues**: 2283 · **Open issues**: 26 · **Commits**: 974
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 20 | 43 | 22 | 58 | 10 | 38 |
-| last60d | 2026-07-17 | 31 | 75 | 33 | 112 | 15 | 75 |
-| 90d | 2026-06-17 | 37 | 106 | 37 | 185 | 16 | 100 |
-| last180d | 2026-03-19 | 69 | 222 | 37 | 498 | 19 | 221 |
-| 360d | 2025-09-20 | 100 | 413 | 37 | 1752 | 21 | 506 |
-| last720d | 2024-09-25 | 100 | 523 | 37 | 2281 | 25 | 974 |
+| 30d | 2026-08-17 | 20 | 41 | 26 | 56 | 11 | 38 |
+| last60d | 2026-07-18 | 29 | 75 | 37 | 112 | 16 | 75 |
+| 90d | 2026-06-18 | 36 | 105 | 40 | 183 | 17 | 100 |
+| last180d | 2026-03-20 | 69 | 222 | 41 | 494 | 20 | 221 |
+| 360d | 2025-09-21 | 100 | 413 | 41 | 1752 | 22 | 506 |
+| last720d | 2024-09-26 | 100 | 523 | 41 | 2281 | 26 | 974 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:15:46Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:11:29Z._
