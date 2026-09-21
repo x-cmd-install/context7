@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":388479426,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4XJ7nC","tag_name":"@upstash/context7-mcp@4.1.1","target_commitish":"master","name":"@upstash/context7-mcp@4.1.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-14T14:50:33Z","updated_at":"2026-09-14T14:50:35Z","published_at":"2026-09-14T14:50:35Z","assets":[],"body":"### Patch Changes\n\n- 5ed5e9a: Disable unused MCP notification subscriptions so clients do not hold open SSE streams for static tool, prompt, and resource collections.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
