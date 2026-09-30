@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":394119539,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4Xfclz","tag_name":"@upstash/context7-sdk@0.5.0","target_commitish":"master","name":"@upstash/context7-sdk@0.5.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-22T21:04:40Z","updated_at":"2026-09-22T21:04:48Z","published_at":"2026-09-22T21:04:48Z","assets":[],"body":"### Minor Changes\n\n- 2c6c8e7: Add a typed `search` method that finds relevant documentation without a separate library resolution request.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
