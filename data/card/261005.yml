@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":401684785,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4X8Tkx","tag_name":"@upstash/context7-opencode@0.2.0","target_commitish":"master","name":"@upstash/context7-opencode@0.2.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-02T09:26:43Z","updated_at":"2026-10-02T09:26:44Z","published_at":"2026-10-02T09:26:44Z","assets":[],"body":"### Minor Changes\n\n- 635cfc8: Support OpenCode v2. The plugin now exports a v2 `setup` entrypoint next to the v1 `server` entrypoint, so `opencode plugin add @upstash/context7-opencode` registers the Context7 MCP server and the `context7-mcp` skill on v2 as well.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
