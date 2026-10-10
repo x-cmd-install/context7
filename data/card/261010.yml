@@ -130,4 +130,3 @@ total:
 ---
 
 ---
-{"id":408058571,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YUnrL","tag_name":"@upstash/context7-mcp@4.3.0","target_commitish":"master","name":"@upstash/context7-mcp@4.3.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-09T15:36:19Z","updated_at":"2026-10-09T15:37:08Z","published_at":"2026-10-09T15:37:08Z","assets":[],"body":"### Minor Changes\n\n- 2c0f362: Add an optional `language` argument to `query-docs`. When the agent knows the programming language the user writes in, Context7 ranks code examples in that language first.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
