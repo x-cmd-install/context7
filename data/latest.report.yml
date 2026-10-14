@@ -2,95 +2,95 @@ about:
   description: "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
   license: MIT
   homepage: https://context7.com
-  head: 33414e6
+  head: 2dcbb29
   archived: false
-  latestVersion: "mcpb-v4.3.0"
-  latestRelease: "mcpb-v4.3.0"
+  latestVersion: "mcpb-v4.4.1"
+  latestRelease: "mcpb-v4.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-13T07:09:27Z
+  collectedAt: 2026-10-14T05:05:22Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-12
-  lastVersion: 2026-10-09
-  lastRelease: 2026-10-09
+  lastCommit: 2026-10-13
+  lastVersion: 2026-10-13
+  lastRelease: 2026-10-13
   lastPrerelease: 
 popularity:
-  star: 62960
+  star: 62998
   watcher: 164
-  fork: 3073
-  release: 144
+  fork: 3083
+  release: 152
   contributor: 130
-  pullRequest: 914
-  issue: 2393
+  pullRequest: 926
+  issue: 2398
 language:
-  TypeScript: 825136
+  TypeScript: 853900
   JavaScript: 9968
   Dockerfile: 914
-totalBytes: 836018
+totalBytes: 864782
 recent:
   last30d:
-    since: 2026-09-13
-    release: 22
-    mergedPR: 58
-    openPR: 12
-    closedIssue: 82
-    openIssue: 5
-    commit: 57
+    since: 2026-09-14
+    release: 30
+    mergedPR: 65
+    openPR: 10
+    closedIssue: 83
+    openIssue: 8
+    commit: 66
   last60d:
-    since: 2026-08-14
-    release: 40
-    mergedPR: 103
-    openPR: 16
-    closedIssue: 153
-    openIssue: 5
-    commit: 100
+    since: 2026-08-15
+    release: 48
+    mergedPR: 111
+    openPR: 14
+    closedIssue: 154
+    openIssue: 8
+    commit: 109
   last90d:
-    since: 2026-07-15
-    release: 51
-    mergedPR: 140
-    openPR: 20
-    closedIssue: 215
-    openIssue: 7
-    commit: 135
-  last180d:
-    since: 2026-04-16
-    release: 79
-    mergedPR: 253
-    openPR: 20
-    closedIssue: 469
+    since: 2026-07-16
+    release: 59
+    mergedPR: 149
+    openPR: 17
+    closedIssue: 212
     openIssue: 10
-    commit: 248
+    commit: 144
+  last180d:
+    since: 2026-04-17
+    release: 87
+    mergedPR: 259
+    openPR: 17
+    closedIssue: 465
+    openIssue: 13
+    commit: 257
   last360d:
-    since: 2025-10-18
+    since: 2025-10-19
     release: 100
-    mergedPR: 463
-    openPR: 20
+    mergedPR: 472
+    openPR: 17
     closedIssue: 1786
-    openIssue: 12
-    commit: 533
+    openIssue: 15
+    commit: 542
   last720d:
-    since: 2024-10-23
+    since: 2024-10-24
     release: 100
-    mergedPR: 584
-    openPR: 20
-    closedIssue: 2375
-    openIssue: 16
-    commit: 1034
+    mergedPR: 593
+    openPR: 17
+    closedIssue: 2377
+    openIssue: 19
+    commit: 1043
 total:
-  release: 144
-  mergedPR: 584
-  openPR: 20
-  closedIssue: 2377
-  openIssue: 16
-  commit: 1034
+  release: 152
+  mergedPR: 593
+  openPR: 17
+  closedIssue: 2379
+  openIssue: 19
+  commit: 1043
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-13T07:09:30Z
+collectedAt: 2026-10-14T05:05:25Z
 loc:
   TypeScript:
-    code: 20467
-    comments: 1023
-    blanks: 2882
+    code: 21064
+    comments: 1083
+    blanks: 2957
     files: 146
   Yaml:
     code: 7069
@@ -98,7 +98,7 @@ loc:
     blanks: 617
     files: 3
   Json:
-    code: 2568
+    code: 2574
     comments: 0
     blanks: 0
     files: 32
@@ -119,15 +119,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6169
-    blanks: 2775
+    comments: 6190
+    blanks: 2796
     files: 55
 total:
-  code: 33865
-  comments: 7337
-  blanks: 6331
+  code: 34468
+  comments: 7418
+  blanks: 6427
   files: 255
 ---
 
 ---
-{"id":408058571,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YUnrL","tag_name":"@upstash/context7-mcp@4.3.0","target_commitish":"master","name":"@upstash/context7-mcp@4.3.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-09T15:36:19Z","updated_at":"2026-10-09T15:37:08Z","published_at":"2026-10-09T15:37:08Z","assets":[],"body":"### Minor Changes\n\n- 2c0f362: Add an optional `language` argument to `query-docs`. When the agent knows the programming language the user writes in, Context7 ranks code examples in that language first.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":411747276,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YisPM","tag_name":"@upstash/context7-mcp@4.4.1","target_commitish":"master","name":"@upstash/context7-mcp@4.4.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-13T14:08:27Z","updated_at":"2026-10-13T14:09:17Z","published_at":"2026-10-13T14:09:17Z","assets":[],"body":"### Patch Changes\n\n- 7cbd5fd: Consume request/cancellation pairs contained in the same JSON-RPC batch before dispatch. This prevents the legacy stateless HTTP transport from leaving the response stream open when cancellation suppresses the terminal protocol response.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
