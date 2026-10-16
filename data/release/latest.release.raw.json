@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/411747276",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/411747276/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/411747276/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.4.1",
-  "id": 411747276,
+  "url": "https://api.github.com/repos/upstash/context7/releases/414036292",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/414036292/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/414036292/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.4.2",
+  "id": 414036292,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4YisPM",
-  "tag_name": "@upstash/context7-mcp@4.4.1",
+  "node_id": "RE_kwDOOPWeNc4YrbFE",
+  "tag_name": "@upstash/context7-mcp@4.4.2",
   "target_commitish": "master",
-  "name": "@upstash/context7-mcp@4.4.1",
+  "name": "@upstash/context7-mcp@4.4.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-13T14:08:27Z",
-  "updated_at": "2026-10-13T14:09:17Z",
-  "published_at": "2026-10-13T14:09:17Z",
+  "created_at": "2026-10-15T16:34:23Z",
+  "updated_at": "2026-10-15T16:35:11Z",
+  "published_at": "2026-10-15T16:35:11Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.4.1",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.4.1",
-  "body": "### Patch Changes\n\n- 7cbd5fd: Consume request/cancellation pairs contained in the same JSON-RPC batch before dispatch. This prevents the legacy stateless HTTP transport from leaving the response stream open when cancellation suppresses the terminal protocol response.",
-  "reactions": {
-    "url": "https://api.github.com/repos/upstash/context7/releases/411747276/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.4.2",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.4.2",
+  "body": "### Patch Changes\n\n- e824044: Advertise a server title and scalable icons (SVG and a 512x512 PNG) in the MCP handshake and the server card."
 }

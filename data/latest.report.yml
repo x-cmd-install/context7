@@ -1,96 +1,96 @@
 about:
-  description: "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
+  description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: ef472a4
+  head: 1658cc4
   archived: false
-  latestVersion: "mcpb-v4.4.1"
-  latestRelease: "mcpb-v4.4.1"
+  latestVersion: "mcpb-v4.4.2"
+  latestRelease: "mcpb-v4.4.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-15T04:47:35Z
+  collectedAt: 2026-10-16T04:45:49Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-14
-  lastVersion: 2026-10-13
-  lastRelease: 2026-10-13
+  lastCommit: 2026-10-15
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-15
   lastPrerelease: 
 popularity:
-  star: 63053
+  star: 63115
   watcher: 164
-  fork: 3087
-  release: 152
+  fork: 3095
+  release: 154
   contributor: 130
-  pullRequest: 929
-  issue: 2403
+  pullRequest: 938
+  issue: 2409
 language:
-  TypeScript: 853900
+  TypeScript: 854154
   JavaScript: 9968
   Dockerfile: 914
-totalBytes: 864782
+totalBytes: 865036
 recent:
   last30d:
-    since: 2026-09-15
-    release: 28
-    mergedPR: 64
-    openPR: 10
-    closedIssue: 84
-    openIssue: 11
-    commit: 68
-  last60d:
-    since: 2026-08-16
-    release: 48
-    mergedPR: 112
-    openPR: 15
-    closedIssue: 153
-    openIssue: 11
-    commit: 111
-  last90d:
-    since: 2026-07-17
-    release: 59
-    mergedPR: 147
-    openPR: 18
-    closedIssue: 210
+    since: 2026-09-16
+    release: 30
+    mergedPR: 66
+    openPR: 13
+    closedIssue: 85
     openIssue: 13
-    commit: 146
+    commit: 72
+  last60d:
+    since: 2026-08-17
+    release: 50
+    mergedPR: 115
+    openPR: 18
+    closedIssue: 155
+    openIssue: 13
+    commit: 115
+  last90d:
+    since: 2026-07-18
+    release: 59
+    mergedPR: 152
+    openPR: 21
+    closedIssue: 214
+    openIssue: 15
+    commit: 150
   last180d:
-    since: 2026-04-18
-    release: 87
-    mergedPR: 260
-    openPR: 18
-    closedIssue: 466
-    openIssue: 16
-    commit: 259
-  last360d:
-    since: 2025-10-20
-    release: 100
-    mergedPR: 474
-    openPR: 18
-    closedIssue: 1780
+    since: 2026-04-19
+    release: 89
+    mergedPR: 265
+    openPR: 21
+    closedIssue: 469
     openIssue: 18
-    commit: 544
-  last720d:
-    since: 2024-10-25
+    commit: 263
+  last360d:
+    since: 2025-10-21
     release: 100
-    mergedPR: 595
-    openPR: 18
-    closedIssue: 2379
-    openIssue: 22
-    commit: 1045
+    mergedPR: 479
+    openPR: 21
+    closedIssue: 1777
+    openIssue: 20
+    commit: 548
+  last720d:
+    since: 2024-10-26
+    release: 100
+    mergedPR: 600
+    openPR: 21
+    closedIssue: 2383
+    openIssue: 24
+    commit: 1049
 total:
-  release: 152
-  mergedPR: 595
-  openPR: 18
-  closedIssue: 2381
-  openIssue: 22
-  commit: 1045
+  release: 154
+  mergedPR: 600
+  openPR: 21
+  closedIssue: 2385
+  openIssue: 24
+  commit: 1049
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-15T04:47:37Z
+collectedAt: 2026-10-16T04:45:53Z
 loc:
   TypeScript:
-    code: 21064
-    comments: 1083
-    blanks: 2957
+    code: 21075
+    comments: 1084
+    blanks: 2958
     files: 146
   Yaml:
     code: 7069
@@ -119,15 +119,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6190
-    blanks: 2796
+    comments: 6193
+    blanks: 2799
     files: 55
 total:
-  code: 34473
-  comments: 7418
-  blanks: 6427
+  code: 34484
+  comments: 7422
+  blanks: 6431
   files: 255
 ---
 
 ---
-{"id":411747276,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YisPM","tag_name":"@upstash/context7-mcp@4.4.1","target_commitish":"master","name":"@upstash/context7-mcp@4.4.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-13T14:08:27Z","updated_at":"2026-10-13T14:09:17Z","published_at":"2026-10-13T14:09:17Z","assets":[],"body":"### Patch Changes\n\n- 7cbd5fd: Consume request/cancellation pairs contained in the same JSON-RPC batch before dispatch. This prevents the legacy stateless HTTP transport from leaving the response stream open when cancellation suppresses the terminal protocol response.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":414036292,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YrbFE","tag_name":"@upstash/context7-mcp@4.4.2","target_commitish":"master","name":"@upstash/context7-mcp@4.4.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-15T16:34:23Z","updated_at":"2026-10-15T16:35:11Z","published_at":"2026-10-15T16:35:11Z","assets":[],"body":"### Patch Changes\n\n- e824044: Advertise a server title and scalable icons (SVG and a 512x512 PNG) in the MCP handshake and the server card."}
