@@ -2,103 +2,103 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 1658cc4
+  head: e004194
   archived: false
-  latestVersion: "mcpb-v4.4.2"
-  latestRelease: "mcpb-v4.4.2"
+  latestVersion: "ctx7@0.8.0"
+  latestRelease: "ctx7@0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-16T04:45:49Z
+  collectedAt: 2026-10-17T04:35:27Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-15
-  lastVersion: 2026-10-15
-  lastRelease: 2026-10-15
+  lastCommit: 2026-10-16
+  lastVersion: 2026-10-16
+  lastRelease: 2026-10-16
   lastPrerelease: 
 popularity:
-  star: 63115
+  star: 63163
   watcher: 164
-  fork: 3095
-  release: 154
+  fork: 3104
+  release: 156
   contributor: 130
-  pullRequest: 938
-  issue: 2409
+  pullRequest: 946
+  issue: 2415
 language:
-  TypeScript: 854154
+  TypeScript: 767945
   JavaScript: 9968
   Dockerfile: 914
-totalBytes: 865036
+totalBytes: 778827
 recent:
   last30d:
-    since: 2026-09-16
-    release: 30
-    mergedPR: 66
-    openPR: 13
-    closedIssue: 85
-    openIssue: 13
-    commit: 72
+    since: 2026-09-17
+    release: 32
+    mergedPR: 70
+    openPR: 10
+    closedIssue: 93
+    openIssue: 11
+    commit: 78
   last60d:
-    since: 2026-08-17
-    release: 50
-    mergedPR: 115
-    openPR: 18
-    closedIssue: 155
-    openIssue: 13
-    commit: 115
+    since: 2026-08-18
+    release: 52
+    mergedPR: 118
+    openPR: 15
+    closedIssue: 162
+    openIssue: 11
+    commit: 121
   last90d:
-    since: 2026-07-18
-    release: 59
-    mergedPR: 152
-    openPR: 21
-    closedIssue: 214
-    openIssue: 15
-    commit: 150
+    since: 2026-07-19
+    release: 61
+    mergedPR: 158
+    openPR: 18
+    closedIssue: 221
+    openIssue: 13
+    commit: 156
   last180d:
-    since: 2026-04-19
-    release: 89
-    mergedPR: 265
-    openPR: 21
-    closedIssue: 469
-    openIssue: 18
-    commit: 263
+    since: 2026-04-20
+    release: 91
+    mergedPR: 270
+    openPR: 18
+    closedIssue: 474
+    openIssue: 16
+    commit: 269
   last360d:
-    since: 2025-10-21
+    since: 2025-10-22
     release: 100
-    mergedPR: 479
-    openPR: 21
+    mergedPR: 483
+    openPR: 18
     closedIssue: 1777
-    openIssue: 20
-    commit: 548
+    openIssue: 18
+    commit: 554
   last720d:
-    since: 2024-10-26
+    since: 2024-10-27
     release: 100
-    mergedPR: 600
-    openPR: 21
-    closedIssue: 2383
-    openIssue: 24
-    commit: 1049
+    mergedPR: 606
+    openPR: 18
+    closedIssue: 2391
+    openIssue: 22
+    commit: 1055
 total:
-  release: 154
-  mergedPR: 600
-  openPR: 21
-  closedIssue: 2385
-  openIssue: 24
-  commit: 1049
+  release: 156
+  mergedPR: 606
+  openPR: 18
+  closedIssue: 2393
+  openIssue: 22
+  commit: 1055
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-16T04:45:53Z
+collectedAt: 2026-10-17T04:35:29Z
 loc:
   TypeScript:
-    code: 21075
-    comments: 1084
-    blanks: 2958
-    files: 146
+    code: 18578
+    comments: 1071
+    blanks: 2595
+    files: 137
   Yaml:
-    code: 7069
+    code: 7066
     comments: 6
     blanks: 617
     files: 3
   Json:
-    code: 2579
+    code: 2578
     comments: 0
     blanks: 0
     files: 32
@@ -119,15 +119,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6193
-    blanks: 2799
+    comments: 6199
+    blanks: 2805
     files: 55
 total:
-  code: 34484
-  comments: 7422
-  blanks: 6431
-  files: 255
+  code: 31983
+  comments: 7415
+  blanks: 6074
+  files: 246
 ---
 
 ---
-{"id":414036292,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YrbFE","tag_name":"@upstash/context7-mcp@4.4.2","target_commitish":"master","name":"@upstash/context7-mcp@4.4.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-15T16:34:23Z","updated_at":"2026-10-15T16:35:11Z","published_at":"2026-10-15T16:35:11Z","assets":[],"body":"### Patch Changes\n\n- e824044: Advertise a server title and scalable icons (SVG and a 512x512 PNG) in the MCP handshake and the server card."}
+{"id":415057129,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YvUTp","tag_name":"ctx7@0.8.0","target_commitish":"master","name":"ctx7@0.8.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-16T14:30:50Z","updated_at":"2026-10-16T14:31:38Z","published_at":"2026-10-16T14:31:38Z","assets":[],"body":"### Minor Changes\n\n- 94cdfb1: Remove the deprecated `skills` and `generate` commands from `ctx7`; `ctx7 setup` still installs the find-docs and context7-mcp skills.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
