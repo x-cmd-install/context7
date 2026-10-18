@@ -33,26 +33,26 @@ Total: **28,613** lines of code across **190** files in the top 5 languages.
 ## Release
 
 - **Latest**: `ctx7@0.8.0` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 63,163 · **Forks**: 3,104 · **Open issues**: 2,415 · **Contributors**: 130
+- **Stars**: 63,215 · **Forks**: 3,107 · **Open issues**: 2,424 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 606 · **Open PRs**: 18 · **Closed issues**: 2393 · **Open issues**: 22 · **Commits**: 1055
+- **Releases**: 156 · **Merged PRs**: 607 · **Open PRs**: 18 · **Closed issues**: 2396 · **Open issues**: 28 · **Commits**: 1056
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 32 | 70 | 10 | 93 | 11 | 78 |
-| last60d | 2026-08-18 | 52 | 118 | 15 | 162 | 11 | 121 |
-| 90d | 2026-07-19 | 61 | 158 | 18 | 221 | 13 | 156 |
-| last180d | 2026-04-20 | 91 | 270 | 18 | 474 | 16 | 269 |
-| 360d | 2025-10-22 | 100 | 483 | 18 | 1777 | 18 | 554 |
-| last720d | 2024-10-27 | 100 | 606 | 18 | 2391 | 22 | 1055 |
+| 30d | 2026-09-18 | 32 | 69 | 10 | 96 | 17 | 79 |
+| last60d | 2026-08-19 | 51 | 119 | 15 | 164 | 17 | 122 |
+| 90d | 2026-07-20 | 61 | 158 | 18 | 220 | 19 | 157 |
+| last180d | 2026-04-21 | 91 | 269 | 18 | 476 | 22 | 270 |
+| 360d | 2025-10-23 | 100 | 484 | 18 | 1774 | 24 | 555 |
+| last720d | 2024-10-28 | 100 | 607 | 18 | 2394 | 28 | 1056 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:35:34Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:43:38Z._
