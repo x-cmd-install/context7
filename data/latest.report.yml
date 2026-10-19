@@ -7,7 +7,7 @@ about:
   latestVersion: "ctx7@0.8.0"
   latestRelease: "ctx7@0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-18T04:43:31Z
+  collectedAt: 2026-10-19T04:55:54Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-10-17
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-16
   lastPrerelease: 
 popularity:
-  star: 63215
+  star: 63265
   watcher: 164
-  fork: 3107
+  fork: 3113
   release: 156
   contributor: 130
   pullRequest: 947
-  issue: 2424
+  issue: 2430
 language:
   TypeScript: 767945
   JavaScript: 9968
@@ -29,63 +29,63 @@ language:
 totalBytes: 778827
 recent:
   last30d:
-    since: 2026-09-18
+    since: 2026-09-19
     release: 32
     mergedPR: 69
     openPR: 10
     closedIssue: 96
-    openIssue: 17
-    commit: 79
+    openIssue: 22
+    commit: 67
   last60d:
-    since: 2026-08-19
+    since: 2026-08-20
     release: 51
-    mergedPR: 119
+    mergedPR: 117
     openPR: 15
-    closedIssue: 164
-    openIssue: 17
-    commit: 122
+    closedIssue: 163
+    openIssue: 22
+    commit: 117
   last90d:
-    since: 2026-07-20
+    since: 2026-07-21
     release: 61
     mergedPR: 158
     openPR: 18
     closedIssue: 220
-    openIssue: 19
-    commit: 157
-  last180d:
-    since: 2026-04-21
-    release: 91
-    mergedPR: 269
-    openPR: 18
-    closedIssue: 476
-    openIssue: 22
-    commit: 270
-  last360d:
-    since: 2025-10-23
-    release: 100
-    mergedPR: 484
-    openPR: 18
-    closedIssue: 1774
     openIssue: 24
-    commit: 555
+    commit: 150
+  last180d:
+    since: 2026-04-22
+    release: 91
+    mergedPR: 267
+    openPR: 18
+    closedIssue: 473
+    openIssue: 27
+    commit: 259
+  last360d:
+    since: 2025-10-24
+    release: 100
+    mergedPR: 483
+    openPR: 18
+    closedIssue: 1769
+    openIssue: 29
+    commit: 539
   last720d:
-    since: 2024-10-28
+    since: 2024-10-29
     release: 100
     mergedPR: 607
     openPR: 18
-    closedIssue: 2394
-    openIssue: 28
+    closedIssue: 2395
+    openIssue: 33
     commit: 1056
 total:
   release: 156
   mergedPR: 607
   openPR: 18
-  closedIssue: 2396
-  openIssue: 28
+  closedIssue: 2397
+  openIssue: 33
   commit: 1056
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-18T04:43:34Z
+collectedAt: 2026-10-19T04:55:56Z
 loc:
   TypeScript:
     code: 18578
