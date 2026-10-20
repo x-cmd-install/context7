@@ -2,98 +2,98 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 6b636d3
+  head: c7f80ce
   archived: false
-  latestVersion: "ctx7@0.8.0"
-  latestRelease: "ctx7@0.8.0"
+  latestVersion: "mcpb-v4.4.4"
+  latestRelease: "mcpb-v4.4.4"
   latestPrerelease: ""
-  collectedAt: 2026-10-19T04:55:54Z
+  collectedAt: 2026-10-20T04:59:00Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-17
-  lastVersion: 2026-10-16
-  lastRelease: 2026-10-16
+  lastCommit: 2026-10-19
+  lastVersion: 2026-10-19
+  lastRelease: 2026-10-19
   lastPrerelease: 
 popularity:
-  star: 63265
+  star: 63336
   watcher: 164
-  fork: 3113
-  release: 156
-  contributor: 130
-  pullRequest: 947
-  issue: 2430
+  fork: 3119
+  release: 161
+  contributor: 131
+  pullRequest: 960
+  issue: 2433
 language:
-  TypeScript: 767945
+  TypeScript: 780392
   JavaScript: 9968
   Dockerfile: 914
-totalBytes: 778827
+totalBytes: 791274
 recent:
   last30d:
-    since: 2026-09-19
-    release: 32
-    mergedPR: 69
-    openPR: 10
-    closedIssue: 96
-    openIssue: 22
-    commit: 67
+    since: 2026-09-20
+    release: 37
+    mergedPR: 74
+    openPR: 16
+    closedIssue: 103
+    openIssue: 16
+    commit: 75
   last60d:
-    since: 2026-08-20
-    release: 51
-    mergedPR: 117
-    openPR: 15
-    closedIssue: 163
-    openIssue: 22
-    commit: 117
+    since: 2026-08-21
+    release: 56
+    mergedPR: 124
+    openPR: 20
+    closedIssue: 170
+    openIssue: 17
+    commit: 125
   last90d:
-    since: 2026-07-21
-    release: 61
-    mergedPR: 158
-    openPR: 18
-    closedIssue: 220
-    openIssue: 24
-    commit: 150
+    since: 2026-07-22
+    release: 66
+    mergedPR: 164
+    openPR: 23
+    closedIssue: 228
+    openIssue: 19
+    commit: 158
   last180d:
-    since: 2026-04-22
-    release: 91
-    mergedPR: 267
-    openPR: 18
-    closedIssue: 473
-    openIssue: 27
-    commit: 259
+    since: 2026-04-23
+    release: 96
+    mergedPR: 274
+    openPR: 23
+    closedIssue: 477
+    openIssue: 22
+    commit: 267
   last360d:
-    since: 2025-10-24
+    since: 2025-10-25
     release: 100
-    mergedPR: 483
-    openPR: 18
-    closedIssue: 1769
-    openIssue: 29
-    commit: 539
+    mergedPR: 491
+    openPR: 23
+    closedIssue: 1772
+    openIssue: 24
+    commit: 547
   last720d:
-    since: 2024-10-29
+    since: 2024-10-30
     release: 100
-    mergedPR: 607
-    openPR: 18
-    closedIssue: 2395
-    openIssue: 33
-    commit: 1056
+    mergedPR: 615
+    openPR: 23
+    closedIssue: 2403
+    openIssue: 28
+    commit: 1064
 total:
-  release: 156
-  mergedPR: 607
-  openPR: 18
-  closedIssue: 2397
-  openIssue: 33
-  commit: 1056
+  release: 161
+  mergedPR: 615
+  openPR: 23
+  closedIssue: 2405
+  openIssue: 28
+  commit: 1064
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-19T04:55:56Z
+collectedAt: 2026-10-20T04:59:02Z
 loc:
   TypeScript:
-    code: 18578
-    comments: 1071
-    blanks: 2595
-    files: 137
+    code: 18829
+    comments: 1103
+    blanks: 2624
+    files: 139
   Yaml:
-    code: 7066
+    code: 7051
     comments: 6
     blanks: 617
     files: 3
@@ -119,15 +119,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6199
-    blanks: 2805
+    comments: 6213
+    blanks: 2815
     files: 55
 total:
-  code: 31983
-  comments: 7415
-  blanks: 6074
-  files: 246
+  code: 32219
+  comments: 7461
+  blanks: 6113
+  files: 248
 ---
 
 ---
-{"id":415057129,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4YvUTp","tag_name":"ctx7@0.8.0","target_commitish":"master","name":"ctx7@0.8.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-16T14:30:50Z","updated_at":"2026-10-16T14:31:38Z","published_at":"2026-10-16T14:31:38Z","assets":[],"body":"### Minor Changes\n\n- 94cdfb1: Remove the deprecated `skills` and `generate` commands from `ctx7`; `ctx7 setup` still installs the find-docs and context7-mcp skills.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":417345079,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4Y4C43","tag_name":"@upstash/context7-mcp@4.4.4","target_commitish":"master","name":"@upstash/context7-mcp@4.4.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-19T13:46:28Z","updated_at":"2026-10-19T13:47:20Z","published_at":"2026-10-19T13:47:20Z","assets":[],"body":"### Patch Changes\n\n- 66e4771: Reject `--port=<n>` and `--api-key=<key>` with incompatible transports, matching the space-separated forms.\n- 6a54ec3: `--port` rejects values that are not an integer from 0 to 65535, and the port-in-use retry stops at 65535 instead of crashing.\n- 5a2b651: Narrow the \"Do not use for\" line in the server instructions and rule templates so agents use Context7 when they port code between libraries, platforms, or SQL dialects.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
