@@ -2,96 +2,96 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: d980242
+  head: b5e81de
   archived: false
-  latestVersion: "mcpb-v4.4.4"
-  latestRelease: "mcpb-v4.4.4"
+  latestVersion: "@upstash/context7-sdk@0.6.0"
+  latestRelease: "@upstash/context7-sdk@0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-23T05:00:30Z
+  collectedAt: 2026-10-24T04:44:36Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-22
-  lastVersion: 2026-10-19
-  lastRelease: 2026-10-19
+  lastCommit: 2026-10-23
+  lastVersion: 2026-10-23
+  lastRelease: 2026-10-23
   lastPrerelease: 
 popularity:
-  star: 63523
+  star: 63561
   watcher: 164
-  fork: 3128
-  release: 161
+  fork: 3127
+  release: 163
   contributor: 131
-  pullRequest: 993
-  issue: 2445
+  pullRequest: 997
+  issue: 2447
 language:
-  TypeScript: 895731
+  TypeScript: 905164
   JavaScript: 11557
   HTML: 4145
   Dockerfile: 914
-totalBytes: 912347
+totalBytes: 921780
 recent:
   last30d:
-    since: 2026-09-23
-    release: 34
-    mergedPR: 95
-    openPR: 16
-    closedIssue: 113
+    since: 2026-09-24
+    release: 36
+    mergedPR: 99
+    openPR: 15
+    closedIssue: 107
     openIssue: 13
-    commit: 100
+    commit: 106
   last60d:
-    since: 2026-08-24
-    release: 55
-    mergedPR: 148
-    openPR: 20
+    since: 2026-08-25
+    release: 57
+    mergedPR: 152
+    openPR: 19
     closedIssue: 177
     openIssue: 14
-    commit: 150
+    commit: 156
   last90d:
-    since: 2026-07-25
-    release: 66
-    mergedPR: 187
-    openPR: 23
-    closedIssue: 237
+    since: 2026-07-26
+    release: 64
+    mergedPR: 193
+    openPR: 22
+    closedIssue: 238
     openIssue: 16
-    commit: 183
+    commit: 189
   last180d:
-    since: 2026-04-26
-    release: 94
-    mergedPR: 300
-    openPR: 23
-    closedIssue: 486
+    since: 2026-04-27
+    release: 96
+    mergedPR: 302
+    openPR: 22
+    closedIssue: 485
     openIssue: 19
-    commit: 292
+    commit: 298
   last360d:
-    since: 2025-10-28
+    since: 2025-10-29
     release: 100
-    mergedPR: 515
-    openPR: 23
-    closedIssue: 1773
+    mergedPR: 521
+    openPR: 22
+    closedIssue: 1767
     openIssue: 21
-    commit: 572
+    commit: 578
   last720d:
-    since: 2024-11-02
+    since: 2024-11-03
     release: 100
-    mergedPR: 641
-    openPR: 23
-    closedIssue: 2418
+    mergedPR: 647
+    openPR: 22
+    closedIssue: 2420
     openIssue: 25
-    commit: 1089
+    commit: 1095
 total:
-  release: 161
-  mergedPR: 641
-  openPR: 23
-  closedIssue: 2420
+  release: 163
+  mergedPR: 647
+  openPR: 22
+  closedIssue: 2422
   openIssue: 25
-  commit: 1089
+  commit: 1095
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-23T05:00:33Z
+collectedAt: 2026-10-24T04:44:38Z
 loc:
   TypeScript:
-    code: 21382
-    comments: 1315
-    blanks: 2821
+    code: 21566
+    comments: 1337
+    blanks: 2831
     files: 151
   Yaml:
     code: 7095
@@ -99,7 +99,7 @@ loc:
     blanks: 619
     files: 3
   Json:
-    code: 2677
+    code: 2679
     comments: 0
     blanks: 0
     files: 36
@@ -125,15 +125,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6262
-    blanks: 2843
+    comments: 6268
+    blanks: 2849
     files: 56
 total:
-  code: 35132
-  comments: 7731
-  blanks: 6347
+  code: 35318
+  comments: 7759
+  blanks: 6363
   files: 268
 ---
 
 ---
-{"id":417345079,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4Y4C43","tag_name":"@upstash/context7-mcp@4.4.4","target_commitish":"master","name":"@upstash/context7-mcp@4.4.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-19T13:46:28Z","updated_at":"2026-10-19T13:47:20Z","published_at":"2026-10-19T13:47:20Z","assets":[],"body":"### Patch Changes\n\n- 66e4771: Reject `--port=<n>` and `--api-key=<key>` with incompatible transports, matching the space-separated forms.\n- 6a54ec3: `--port` rejects values that are not an integer from 0 to 65535, and the port-in-use retry stops at 65535 instead of crashing.\n- 5a2b651: Narrow the \"Do not use for\" line in the server instructions and rule templates so agents use Context7 when they port code between libraries, platforms, or SQL dialects.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them."}
