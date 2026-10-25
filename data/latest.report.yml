@@ -7,7 +7,7 @@ about:
   latestVersion: "@upstash/context7-sdk@0.6.0"
   latestRelease: "@upstash/context7-sdk@0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-24T04:44:36Z
+  collectedAt: 2026-10-25T04:50:02Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-10-23
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-23
   lastPrerelease: 
 popularity:
-  star: 63561
-  watcher: 164
-  fork: 3127
+  star: 63624
+  watcher: 159
+  fork: 3135
   release: 163
   contributor: 131
   pullRequest: 997
-  issue: 2447
+  issue: 2449
 language:
   TypeScript: 905164
   JavaScript: 11557
@@ -30,23 +30,23 @@ language:
 totalBytes: 921780
 recent:
   last30d:
-    since: 2026-09-24
+    since: 2026-09-25
     release: 36
-    mergedPR: 99
+    mergedPR: 98
     openPR: 15
     closedIssue: 107
     openIssue: 13
     commit: 106
   last60d:
-    since: 2026-08-25
+    since: 2026-08-26
     release: 57
-    mergedPR: 152
+    mergedPR: 150
     openPR: 19
-    closedIssue: 177
+    closedIssue: 175
     openIssue: 14
     commit: 156
   last90d:
-    since: 2026-07-26
+    since: 2026-07-27
     release: 64
     mergedPR: 193
     openPR: 22
@@ -54,39 +54,39 @@ recent:
     openIssue: 16
     commit: 189
   last180d:
-    since: 2026-04-27
-    release: 96
-    mergedPR: 302
+    since: 2026-04-28
+    release: 95
+    mergedPR: 298
     openPR: 22
     closedIssue: 485
     openIssue: 19
     commit: 298
   last360d:
-    since: 2025-10-29
+    since: 2025-10-30
     release: 100
-    mergedPR: 521
+    mergedPR: 519
     openPR: 22
-    closedIssue: 1767
+    closedIssue: 1765
     openIssue: 21
     commit: 578
   last720d:
-    since: 2024-11-03
+    since: 2024-11-04
     release: 100
     mergedPR: 647
     openPR: 22
-    closedIssue: 2420
+    closedIssue: 2422
     openIssue: 25
     commit: 1095
 total:
   release: 163
   mergedPR: 647
   openPR: 22
-  closedIssue: 2422
+  closedIssue: 2424
   openIssue: 25
   commit: 1095
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-24T04:44:38Z
+collectedAt: 2026-10-25T04:50:04Z
 loc:
   TypeScript:
     code: 21566
@@ -136,4 +136,4 @@ total:
 ---
 
 ---
-{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them."}
+{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
