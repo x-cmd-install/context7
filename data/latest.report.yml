@@ -7,7 +7,7 @@ about:
   latestVersion: "@upstash/context7-sdk@0.6.0"
   latestRelease: "@upstash/context7-sdk@0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-25T04:50:02Z
+  collectedAt: 2026-10-26T04:57:45Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-10-23
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-23
   lastPrerelease: 
 popularity:
-  star: 63624
+  star: 63689
   watcher: 159
-  fork: 3135
+  fork: 3140
   release: 163
   contributor: 131
-  pullRequest: 997
+  pullRequest: 998
   issue: 2449
 language:
   TypeScript: 905164
@@ -30,63 +30,63 @@ language:
 totalBytes: 921780
 recent:
   last30d:
-    since: 2026-09-25
+    since: 2026-09-26
     release: 36
-    mergedPR: 98
-    openPR: 15
-    closedIssue: 107
-    openIssue: 13
-    commit: 106
+    mergedPR: 97
+    openPR: 16
+    closedIssue: 109
+    openIssue: 11
+    commit: 98
   last60d:
-    since: 2026-08-26
+    since: 2026-08-27
     release: 57
-    mergedPR: 150
-    openPR: 19
-    closedIssue: 175
-    openIssue: 14
-    commit: 156
+    mergedPR: 144
+    openPR: 20
+    closedIssue: 174
+    openIssue: 12
+    commit: 144
   last90d:
-    since: 2026-07-27
+    since: 2026-07-28
     release: 64
     mergedPR: 193
     openPR: 22
-    closedIssue: 238
-    openIssue: 16
-    commit: 189
+    closedIssue: 239
+    openIssue: 13
+    commit: 183
   last180d:
-    since: 2026-04-28
-    release: 95
-    mergedPR: 298
-    openPR: 22
+    since: 2026-04-29
+    release: 94
+    mergedPR: 296
+    openPR: 23
     closedIssue: 485
-    openIssue: 19
-    commit: 298
+    openIssue: 17
+    commit: 289
   last360d:
-    since: 2025-10-30
+    since: 2025-10-31
     release: 100
     mergedPR: 519
-    openPR: 22
-    closedIssue: 1765
-    openIssue: 21
-    commit: 578
+    openPR: 23
+    closedIssue: 1764
+    openIssue: 19
+    commit: 566
   last720d:
-    since: 2024-11-04
+    since: 2024-11-05
     release: 100
     mergedPR: 647
-    openPR: 22
-    closedIssue: 2422
-    openIssue: 25
+    openPR: 23
+    closedIssue: 2424
+    openIssue: 23
     commit: 1095
 total:
   release: 163
   mergedPR: 647
-  openPR: 22
-  closedIssue: 2424
-  openIssue: 25
+  openPR: 23
+  closedIssue: 2426
+  openIssue: 23
   commit: 1095
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-10-25T04:50:04Z
+collectedAt: 2026-10-26T04:57:49Z
 loc:
   TypeScript:
     code: 21566
