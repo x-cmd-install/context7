@@ -1,0 +1,143 @@
+about:
+  description: "Context7 Platform -- Up-to-date docs for AI agents"
+  license: MIT
+  homepage: https://context7.com
+  head: d956160
+  archived: false
+  latestVersion: "@upstash/context7-sdk@0.6.0"
+  latestRelease: "@upstash/context7-sdk@0.6.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-27T05:17:36Z
+timeline:
+  created: 2025-03-26
+  lastCommit: 2026-10-26
+  lastVersion: 2026-10-23
+  lastRelease: 2026-10-23
+  lastPrerelease: 
+popularity:
+  star: 63741
+  watcher: 159
+  fork: 3145
+  release: 163
+  contributor: 132
+  pullRequest: 1015
+  issue: 2454
+language:
+  TypeScript: 905164
+  JavaScript: 11557
+  HTML: 4145
+  Dockerfile: 914
+totalBytes: 921780
+recent:
+  last30d:
+    since: 2026-09-27
+    release: 36
+    mergedPR: 105
+    openPR: 20
+    closedIssue: 113
+    openIssue: 11
+    commit: 106
+  last60d:
+    since: 2026-08-28
+    release: 56
+    mergedPR: 148
+    openPR: 24
+    closedIssue: 175
+    openIssue: 12
+    commit: 152
+  last90d:
+    since: 2026-07-29
+    release: 64
+    mergedPR: 197
+    openPR: 26
+    closedIssue: 239
+    openIssue: 13
+    commit: 191
+  last180d:
+    since: 2026-04-30
+    release: 93
+    mergedPR: 303
+    openPR: 27
+    closedIssue: 483
+    openIssue: 17
+    commit: 297
+  last360d:
+    since: 2025-11-01
+    release: 100
+    mergedPR: 528
+    openPR: 27
+    closedIssue: 1761
+    openIssue: 19
+    commit: 574
+  last720d:
+    since: 2024-11-06
+    release: 100
+    mergedPR: 656
+    openPR: 27
+    closedIssue: 2429
+    openIssue: 23
+    commit: 1103
+total:
+  release: 163
+  mergedPR: 656
+  openPR: 27
+  closedIssue: 2431
+  openIssue: 23
+  commit: 1103
+---
+path: /home/runner/.x-repo/github.com/upstash/context7
+collectedAt: 2026-10-27T05:17:39Z
+loc:
+  TypeScript:
+    code: 21566
+    comments: 1337
+    blanks: 2831
+    files: 151
+  Yaml:
+    code: 7095
+    comments: 6
+    blanks: 619
+    files: 3
+  Json:
+    code: 2679
+    comments: 0
+    blanks: 0
+    files: 36
+  JavaScript:
+    code: 370
+    comments: 50
+    blanks: 13
+    files: 13
+  Html:
+    code: 66
+    comments: 0
+    blanks: 5
+    files: 1
+  Svg:
+    code: 52
+    comments: 0
+    blanks: 0
+    files: 7
+  Jsx:
+    code: 46
+    comments: 3
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 18
+    comments: 6
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6279
+    blanks: 2862
+    files: 56
+total:
+  code: 35364
+  comments: 7773
+  blanks: 6381
+  files: 269
+---
+
+---
