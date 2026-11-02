@@ -7,7 +7,7 @@ about:
   latestVersion: "@upstash/context7-sdk@0.6.0"
   latestRelease: "@upstash/context7-sdk@0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-01T06:19:29Z
+  collectedAt: 2026-11-02T06:16:52Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-10-30
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-23
   lastPrerelease: 
 popularity:
-  star: 64033
+  star: 64061
   watcher: 161
-  fork: 3197
+  fork: 3198
   release: 163
   contributor: 133
-  pullRequest: 1048
-  issue: 2476
+  pullRequest: 1053
+  issue: 2478
 language:
   TypeScript: 1380757
   JavaScript: 11693
@@ -31,63 +31,63 @@ language:
 totalBytes: 1409273
 recent:
   last30d:
-    since: 2026-10-02
-    release: 36
+    since: 2026-10-03
+    release: 35
     mergedPR: 114
-    openPR: 18
-    closedIssue: 119
+    openPR: 23
+    closedIssue: 114
     openIssue: 10
-    commit: 128
+    commit: 104
   last60d:
-    since: 2026-09-02
+    since: 2026-09-03
     release: 54
-    mergedPR: 166
-    openPR: 24
-    closedIssue: 189
+    mergedPR: 164
+    openPR: 28
+    closedIssue: 184
     openIssue: 11
-    commit: 174
+    commit: 160
   last90d:
-    since: 2026-08-03
+    since: 2026-08-04
     release: 63
     mergedPR: 216
-    openPR: 25
+    openPR: 30
     closedIssue: 254
     openIssue: 11
-    commit: 213
+    commit: 209
   last180d:
-    since: 2026-05-05
+    since: 2026-05-06
     release: 91
-    mergedPR: 320
-    openPR: 27
-    closedIssue: 491
+    mergedPR: 317
+    openPR: 32
+    closedIssue: 488
     openIssue: 14
-    commit: 320
+    commit: 312
   last360d:
-    since: 2025-11-06
+    since: 2025-11-07
     release: 100
     mergedPR: 547
-    openPR: 27
-    closedIssue: 1743
+    openPR: 32
+    closedIssue: 1740
     openIssue: 16
-    commit: 597
+    commit: 582
   last720d:
-    since: 2024-11-11
+    since: 2024-11-12
     release: 100
     mergedPR: 678
-    openPR: 27
-    closedIssue: 2456
+    openPR: 32
+    closedIssue: 2458
     openIssue: 18
     commit: 1125
 total:
   release: 163
   mergedPR: 678
-  openPR: 27
-  closedIssue: 2458
+  openPR: 32
+  closedIssue: 2460
   openIssue: 18
   commit: 1125
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-01T06:19:32Z
+collectedAt: 2026-11-02T06:16:56Z
 loc:
   TypeScript:
     code: 23842
@@ -152,4 +152,4 @@ total:
 ---
 
 ---
-{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them.","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
