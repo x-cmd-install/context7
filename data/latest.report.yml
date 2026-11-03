@@ -2,108 +2,108 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 7836c58
+  head: a138857
   archived: false
-  latestVersion: "@upstash/context7-sdk@0.6.0"
-  latestRelease: "@upstash/context7-sdk@0.6.0"
+  latestVersion: "mcpb-v4.5.0"
+  latestRelease: "mcpb-v4.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-02T06:16:52Z
+  collectedAt: 2026-11-03T07:03:55Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-10-30
-  lastVersion: 2026-10-23
-  lastRelease: 2026-10-23
+  lastCommit: 2026-11-03
+  lastVersion: 2026-11-03
+  lastRelease: 2026-11-03
   lastPrerelease: 
 popularity:
-  star: 64061
-  watcher: 161
-  fork: 3198
-  release: 163
-  contributor: 133
-  pullRequest: 1053
-  issue: 2478
+  star: 64107
+  watcher: 159
+  fork: 3209
+  release: 166
+  contributor: 134
+  pullRequest: 1070
+  issue: 2480
 language:
-  TypeScript: 1380757
+  TypeScript: 1401256
   JavaScript: 11693
-  HTML: 10209
+  HTML: 10269
   CSS: 5700
   Dockerfile: 914
-totalBytes: 1409273
+totalBytes: 1429832
 recent:
   last30d:
-    since: 2026-10-03
-    release: 35
-    mergedPR: 114
-    openPR: 23
-    closedIssue: 114
-    openIssue: 10
-    commit: 104
-  last60d:
-    since: 2026-09-03
-    release: 54
-    mergedPR: 164
+    since: 2026-10-04
+    release: 38
+    mergedPR: 125
     openPR: 28
-    closedIssue: 184
-    openIssue: 11
-    commit: 160
+    closedIssue: 116
+    openIssue: 6
+    commit: 115
+  last60d:
+    since: 2026-09-04
+    release: 57
+    mergedPR: 172
+    openPR: 32
+    closedIssue: 190
+    openIssue: 7
+    commit: 171
   last90d:
-    since: 2026-08-04
-    release: 63
-    mergedPR: 216
-    openPR: 30
-    closedIssue: 254
-    openIssue: 11
-    commit: 209
+    since: 2026-08-05
+    release: 66
+    mergedPR: 226
+    openPR: 35
+    closedIssue: 257
+    openIssue: 7
+    commit: 220
   last180d:
-    since: 2026-05-06
-    release: 91
-    mergedPR: 317
-    openPR: 32
-    closedIssue: 488
-    openIssue: 14
-    commit: 312
+    since: 2026-05-07
+    release: 94
+    mergedPR: 328
+    openPR: 37
+    closedIssue: 490
+    openIssue: 10
+    commit: 323
   last360d:
-    since: 2025-11-07
+    since: 2025-11-08
     release: 100
-    mergedPR: 547
-    openPR: 32
-    closedIssue: 1740
-    openIssue: 16
-    commit: 582
+    mergedPR: 558
+    openPR: 37
+    closedIssue: 1738
+    openIssue: 12
+    commit: 593
   last720d:
-    since: 2024-11-12
+    since: 2024-11-13
     release: 100
-    mergedPR: 678
-    openPR: 32
-    closedIssue: 2458
-    openIssue: 18
-    commit: 1125
+    mergedPR: 689
+    openPR: 37
+    closedIssue: 2464
+    openIssue: 14
+    commit: 1136
 total:
-  release: 163
-  mergedPR: 678
-  openPR: 32
-  closedIssue: 2460
-  openIssue: 18
-  commit: 1125
+  release: 166
+  mergedPR: 689
+  openPR: 37
+  closedIssue: 2466
+  openIssue: 14
+  commit: 1136
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-02T06:16:56Z
+collectedAt: 2026-11-03T07:03:58Z
 loc:
   TypeScript:
-    code: 23842
-    comments: 1530
-    blanks: 2999
-    files: 165
+    code: 24320
+    comments: 1573
+    blanks: 3092
+    files: 170
   Yaml:
-    code: 7657
+    code: 8214
     comments: 6
-    blanks: 661
-    files: 3
+    blanks: 812
+    files: 5
   Json:
-    code: 2711
+    code: 2760
     comments: 0
     blanks: 0
-    files: 37
+    files: 39
   Tsx:
     code: 2080
     comments: 84
@@ -115,7 +115,7 @@ loc:
     blanks: 13
     files: 13
   Html:
-    code: 149
+    code: 150
     comments: 0
     blanks: 5
     files: 3
@@ -125,10 +125,10 @@ loc:
     blanks: 5
     files: 1
   Svg:
-    code: 52
+    code: 55
     comments: 0
     blanks: 0
-    files: 7
+    files: 8
   Jsx:
     code: 46
     comments: 3
@@ -141,15 +141,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6298
-    blanks: 2878
-    files: 56
+    comments: 6392
+    blanks: 2921
+    files: 60
 total:
-  code: 40714
-  comments: 8099
-  blanks: 6711
-  files: 295
+  code: 41836
+  comments: 8236
+  blanks: 6998
+  files: 309
 ---
 
 ---
-{"id":421758643,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZI4az","tag_name":"@upstash/context7-sdk@0.6.0","target_commitish":"master","name":"@upstash/context7-sdk@0.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T11:22:16Z","updated_at":"2026-10-23T11:23:07Z","published_at":"2026-10-23T11:23:07Z","assets":[],"body":"### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them.","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":432354819,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZxTYD","tag_name":"@upstash/context7-mcp@4.5.0","target_commitish":"master","name":"@upstash/context7-mcp@4.5.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-03T06:40:46Z","updated_at":"2026-11-03T06:41:38Z","published_at":"2026-11-03T06:41:38Z","assets":[],"body":"### Minor Changes\n\n- 7836c58: Research preview: a `submit-docs-feedback` tool sends feedback on the documentation that `query-docs` returned: a score from 0 to 5, what was wrong, and a short comment. It is listed only with research preview on: `--research-preview` or `CONTEXT7_RESEARCH_PREVIEW=1` for stdio, and `?research_preview=1` on the MCP URL for the hosted server. With research preview on, the server instructions also ask the agent to send this feedback after it answers. API calls carry `X-Context7-Research-Preview: 1`, so Context7 can count how many people use the research preview.\n\n### Patch Changes\n\n- 5f41ea5: Record whether an OAuth client uses a Client ID Metadata Document or a registered client ID in MCP authentication telemetry.\n- c964733: In stdio mode, an API key that is an unset variable placeholder (`${CONTEXT7_API_KEY}` or `$CONTEXT7_API_KEY`) now counts as no key: the server falls back to `CONTEXT7_API_KEY`, and when that is not usable either it logs one warning and runs without a key. Before, it sent the placeholder as the key and every tool call failed with 401. Gemini CLI passes the placeholder through when the user skips the Context7 extension's API key prompt. API keys are now trimmed, so a key with surrounding spaces is sent without them. The HTTP transport is unchanged."}

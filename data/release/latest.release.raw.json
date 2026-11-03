@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/421758643",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/421758643/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/421758643/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-sdk%400.6.0",
-  "id": 421758643,
+  "url": "https://api.github.com/repos/upstash/context7/releases/432354819",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/432354819/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/432354819/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.5.0",
+  "id": 432354819,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4ZI4az",
-  "tag_name": "@upstash/context7-sdk@0.6.0",
+  "node_id": "RE_kwDOOPWeNc4ZxTYD",
+  "tag_name": "@upstash/context7-mcp@4.5.0",
   "target_commitish": "master",
-  "name": "@upstash/context7-sdk@0.6.0",
+  "name": "@upstash/context7-mcp@4.5.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-23T11:22:16Z",
-  "updated_at": "2026-10-23T11:23:07Z",
-  "published_at": "2026-10-23T11:23:07Z",
+  "created_at": "2026-11-03T06:40:46Z",
+  "updated_at": "2026-11-03T06:41:38Z",
+  "published_at": "2026-11-03T06:41:38Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-sdk@0.6.0",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-sdk@0.6.0",
-  "body": "### Minor Changes\n\n- 158ad26: `search()` JSON results now type the `rank` field on each code and info snippet: the snippet's 1-based place in the reranked order shared by both lists. Sort `codeSnippets` and `infoSnippets` together by `rank` to read the results in the order the text response gives them.",
-  "reactions": {
-    "url": "https://api.github.com/repos/upstash/context7/releases/421758643/reactions",
-    "total_count": 2,
-    "+1": 2,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.5.0",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.5.0",
+  "body": "### Minor Changes\n\n- 7836c58: Research preview: a `submit-docs-feedback` tool sends feedback on the documentation that `query-docs` returned: a score from 0 to 5, what was wrong, and a short comment. It is listed only with research preview on: `--research-preview` or `CONTEXT7_RESEARCH_PREVIEW=1` for stdio, and `?research_preview=1` on the MCP URL for the hosted server. With research preview on, the server instructions also ask the agent to send this feedback after it answers. API calls carry `X-Context7-Research-Preview: 1`, so Context7 can count how many people use the research preview.\n\n### Patch Changes\n\n- 5f41ea5: Record whether an OAuth client uses a Client ID Metadata Document or a registered client ID in MCP authentication telemetry.\n- c964733: In stdio mode, an API key that is an unset variable placeholder (`${CONTEXT7_API_KEY}` or `$CONTEXT7_API_KEY`) now counts as no key: the server falls back to `CONTEXT7_API_KEY`, and when that is not usable either it logs one warning and runs without a key. Before, it sent the placeholder as the key and every tool call failed with 401. Gemini CLI passes the placeholder through when the user skips the Context7 extension's API key prompt. API keys are now trimmed, so a key with surrounding spaces is sent without them. The HTTP transport is unchanged."
 }
