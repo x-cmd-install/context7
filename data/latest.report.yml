@@ -2,105 +2,105 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 1496b42
+  head: f8282ab
   archived: false
   latestVersion: "mcpb-v4.5.0"
   latestRelease: "mcpb-v4.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-05T06:55:07Z
+  collectedAt: 2026-11-06T06:56:44Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-11-04
+  lastCommit: 2026-11-06
   lastVersion: 2026-11-03
   lastRelease: 2026-11-03
   lastPrerelease: 
 popularity:
-  star: 64213
+  star: 64262
   watcher: 159
-  fork: 3208
+  fork: 3213
   release: 166
-  contributor: 134
-  pullRequest: 1098
-  issue: 2493
+  contributor: 136
+  pullRequest: 1111
+  issue: 2494
 language:
-  TypeScript: 1417248
+  TypeScript: 1452785
   JavaScript: 11693
   HTML: 10269
   CSS: 5700
   Dockerfile: 912
-totalBytes: 1445822
+totalBytes: 1481359
 recent:
   last30d:
-    since: 2026-10-06
+    since: 2026-10-07
     release: 37
-    mergedPR: 127
-    openPR: 44
-    closedIssue: 119
-    openIssue: 12
-    commit: 124
+    mergedPR: 140
+    openPR: 31
+    closedIssue: 121
+    openIssue: 5
+    commit: 144
   last60d:
-    since: 2026-09-06
+    since: 2026-09-07
     release: 54
-    mergedPR: 181
-    openPR: 48
-    closedIssue: 196
-    openIssue: 13
-    commit: 180
+    mergedPR: 200
+    openPR: 34
+    closedIssue: 202
+    openIssue: 6
+    commit: 200
   last90d:
-    since: 2026-08-07
-    release: 66
-    mergedPR: 232
-    openPR: 51
-    closedIssue: 264
-    openIssue: 13
-    commit: 229
+    since: 2026-08-08
+    release: 65
+    mergedPR: 252
+    openPR: 38
+    closedIssue: 271
+    openIssue: 6
+    commit: 249
   last180d:
-    since: 2026-05-09
+    since: 2026-05-10
     release: 94
-    mergedPR: 337
-    openPR: 53
-    closedIssue: 494
-    openIssue: 16
-    commit: 332
+    mergedPR: 357
+    openPR: 40
+    closedIssue: 499
+    openIssue: 9
+    commit: 352
   last360d:
-    since: 2025-11-10
+    since: 2025-11-11
     release: 100
-    mergedPR: 565
-    openPR: 53
-    closedIssue: 1738
-    openIssue: 18
-    commit: 602
+    mergedPR: 585
+    openPR: 40
+    closedIssue: 1740
+    openIssue: 11
+    commit: 622
   last720d:
-    since: 2024-11-15
+    since: 2024-11-16
     release: 100
-    mergedPR: 698
-    openPR: 53
-    closedIssue: 2471
-    openIssue: 20
-    commit: 1145
+    mergedPR: 718
+    openPR: 40
+    closedIssue: 2479
+    openIssue: 13
+    commit: 1165
 total:
   release: 166
-  mergedPR: 698
-  openPR: 53
-  closedIssue: 2473
-  openIssue: 20
-  commit: 1145
+  mergedPR: 718
+  openPR: 40
+  closedIssue: 2481
+  openIssue: 13
+  commit: 1165
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-05T06:55:09Z
+collectedAt: 2026-11-06T06:56:48Z
 loc:
   TypeScript:
-    code: 24648
-    comments: 1614
-    blanks: 3114
-    files: 171
+    code: 25413
+    comments: 1678
+    blanks: 3215
+    files: 173
   Yaml:
-    code: 8214
+    code: 8400
     comments: 6
-    blanks: 812
+    blanks: 826
     files: 5
   Json:
-    code: 2760
+    code: 2762
     comments: 0
     blanks: 0
     files: 39
@@ -141,14 +141,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6394
-    blanks: 2921
+    comments: 6399
+    blanks: 2922
     files: 60
 total:
-  code: 42164
-  comments: 8279
-  blanks: 7020
-  files: 310
+  code: 43123
+  comments: 8348
+  blanks: 7136
+  files: 312
 ---
 
 ---
