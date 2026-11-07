@@ -2,105 +2,105 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: f8282ab
+  head: 078c0c7
   archived: false
-  latestVersion: "mcpb-v4.5.0"
-  latestRelease: "mcpb-v4.5.0"
+  latestVersion: "mcpb-v4.5.1"
+  latestRelease: "mcpb-v4.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-06T06:56:44Z
+  collectedAt: 2026-11-07T06:10:50Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-11-06
-  lastVersion: 2026-11-03
-  lastRelease: 2026-11-03
+  lastVersion: 2026-11-06
+  lastRelease: 2026-11-06
   lastPrerelease: 
 popularity:
-  star: 64262
-  watcher: 159
-  fork: 3213
-  release: 166
-  contributor: 136
-  pullRequest: 1111
-  issue: 2494
+  star: 64304
+  watcher: 160
+  fork: 3216
+  release: 169
+  contributor: 135
+  pullRequest: 1122
+  issue: 2496
 language:
-  TypeScript: 1452785
+  TypeScript: 1442094
   JavaScript: 11693
   HTML: 10269
   CSS: 5700
   Dockerfile: 912
-totalBytes: 1481359
+totalBytes: 1470668
 recent:
   last30d:
-    since: 2026-10-07
-    release: 37
+    since: 2026-10-08
+    release: 33
     mergedPR: 140
-    openPR: 31
-    closedIssue: 121
-    openIssue: 5
-    commit: 144
+    openPR: 37
+    closedIssue: 116
+    openIssue: 3
+    commit: 149
   last60d:
-    since: 2026-09-07
-    release: 54
-    mergedPR: 200
-    openPR: 34
-    closedIssue: 202
-    openIssue: 6
-    commit: 200
+    since: 2026-09-08
+    release: 56
+    mergedPR: 204
+    openPR: 40
+    closedIssue: 203
+    openIssue: 4
+    commit: 205
   last90d:
-    since: 2026-08-08
-    release: 65
-    mergedPR: 252
-    openPR: 38
-    closedIssue: 271
-    openIssue: 6
-    commit: 249
+    since: 2026-08-09
+    release: 68
+    mergedPR: 257
+    openPR: 44
+    closedIssue: 274
+    openIssue: 4
+    commit: 254
   last180d:
-    since: 2026-05-10
-    release: 94
-    mergedPR: 357
-    openPR: 40
+    since: 2026-05-11
+    release: 97
+    mergedPR: 358
+    openPR: 46
     closedIssue: 499
-    openIssue: 9
-    commit: 352
+    openIssue: 7
+    commit: 357
   last360d:
-    since: 2025-11-11
+    since: 2025-11-12
     release: 100
-    mergedPR: 585
-    openPR: 40
-    closedIssue: 1740
-    openIssue: 11
-    commit: 622
+    mergedPR: 589
+    openPR: 46
+    closedIssue: 1733
+    openIssue: 9
+    commit: 627
   last720d:
-    since: 2024-11-16
+    since: 2024-11-17
     release: 100
-    mergedPR: 718
-    openPR: 40
-    closedIssue: 2479
-    openIssue: 13
-    commit: 1165
+    mergedPR: 723
+    openPR: 46
+    closedIssue: 2483
+    openIssue: 11
+    commit: 1171
 total:
-  release: 166
-  mergedPR: 718
-  openPR: 40
-  closedIssue: 2481
-  openIssue: 13
-  commit: 1165
+  release: 169
+  mergedPR: 723
+  openPR: 46
+  closedIssue: 2485
+  openIssue: 11
+  commit: 1171
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-06T06:56:48Z
+collectedAt: 2026-11-07T06:10:53Z
 loc:
   TypeScript:
-    code: 25413
-    comments: 1678
-    blanks: 3215
+    code: 25191
+    comments: 1664
+    blanks: 3194
     files: 173
   Yaml:
-    code: 8400
+    code: 8533
     comments: 6
-    blanks: 826
+    blanks: 874
     files: 5
   Json:
-    code: 2762
+    code: 2763
     comments: 0
     blanks: 0
     files: 39
@@ -141,15 +141,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6399
-    blanks: 2922
+    comments: 6427
+    blanks: 2933
     files: 60
 total:
-  code: 43123
-  comments: 8348
-  blanks: 7136
+  code: 43035
+  comments: 8362
+  blanks: 7174
   files: 312
 ---
 
 ---
-{"id":432354819,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4ZxTYD","tag_name":"@upstash/context7-mcp@4.5.0","target_commitish":"master","name":"@upstash/context7-mcp@4.5.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-03T06:40:46Z","updated_at":"2026-11-03T06:41:38Z","published_at":"2026-11-03T06:41:38Z","assets":[],"body":"### Minor Changes\n\n- 7836c58: Research preview: a `submit-docs-feedback` tool sends feedback on the documentation that `query-docs` returned: a score from 0 to 5, what was wrong, and a short comment. It is listed only with research preview on: `--research-preview` or `CONTEXT7_RESEARCH_PREVIEW=1` for stdio, and `?research_preview=1` on the MCP URL for the hosted server. With research preview on, the server instructions also ask the agent to send this feedback after it answers. API calls carry `X-Context7-Research-Preview: 1`, so Context7 can count how many people use the research preview.\n\n### Patch Changes\n\n- 5f41ea5: Record whether an OAuth client uses a Client ID Metadata Document or a registered client ID in MCP authentication telemetry.\n- c964733: In stdio mode, an API key that is an unset variable placeholder (`${CONTEXT7_API_KEY}` or `$CONTEXT7_API_KEY`) now counts as no key: the server falls back to `CONTEXT7_API_KEY`, and when that is not usable either it logs one warning and runs without a key. Before, it sent the placeholder as the key and every tool call failed with 401. Gemini CLI passes the placeholder through when the user skips the Context7 extension's API key prompt. API keys are now trimmed, so a key with surrounding spaces is sent without them. The HTTP transport is unchanged.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":436464163,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4aA-oj","tag_name":"@upstash/context7-mcp@4.5.1","target_commitish":"master","name":"@upstash/context7-mcp@4.5.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-06T12:15:31Z","updated_at":"2026-11-06T12:16:19Z","published_at":"2026-11-06T12:16:19Z","assets":[],"body":"### Patch Changes\n\n- fc65a5a: Keep the teamspace library-filter notice in resolve-library-id results when no libraries match."}
