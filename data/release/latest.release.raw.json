@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/436464163",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/436464163/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/436464163/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.5.1",
-  "id": 436464163,
+  "url": "https://api.github.com/repos/upstash/context7/releases/439151474",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/439151474/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/439151474/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.6.0",
+  "id": 439151474,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4aA-oj",
-  "tag_name": "@upstash/context7-mcp@4.5.1",
+  "node_id": "RE_kwDOOPWeNc4aLOty",
+  "tag_name": "@upstash/context7-mcp@4.6.0",
   "target_commitish": "master",
-  "name": "@upstash/context7-mcp@4.5.1",
+  "name": "@upstash/context7-mcp@4.6.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-06T12:15:31Z",
-  "updated_at": "2026-11-06T12:16:19Z",
-  "published_at": "2026-11-06T12:16:19Z",
+  "created_at": "2026-11-09T13:12:40Z",
+  "updated_at": "2026-11-09T13:13:22Z",
+  "published_at": "2026-11-09T13:13:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.5.1",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.5.1",
-  "body": "### Patch Changes\n\n- fc65a5a: Keep the teamspace library-filter notice in resolve-library-id results when no libraries match."
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.6.0",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.6.0",
+  "body": "### Minor Changes\n\n- 2111b92: Add the `query-code` MCP tool and the `ctx7 code` command. They search and read a library's source code at the version its docs describe: `grep` with ripgrep's options, plus `definition`, `references`, `outline`, `read` and `list`. `ctx7 library` marks the libraries whose source is searchable, and `resolve-library-id` does so with the research preview on. The MCP tool is part of the research preview: it is listed only with `--research-preview`, `CONTEXT7_RESEARCH_PREVIEW=1` or `?research_preview=1`.\n- 7765f35: Add the `get-upgrade-guide` research preview tool: everything that changes between two versions of a library in one response, from the release notes and guides of every release in between and the public API diff of both versions."
 }
