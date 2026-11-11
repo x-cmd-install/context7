@@ -14,13 +14,13 @@ x install context7
 
 ## Code insight
 
-Total: **40,595** lines of code across **242** files in the top 5 languages.
+Total: **40,602** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 26,435 | 1,675 | 3,259 | 177 |
 | Yaml | 8,533 | 6 | 874 | 5 |
-| Json | 2,763 | 0 | 0 | 39 |
+| Json | 2,770 | 0 | 0 | 39 |
 | Tsx | 2,080 | 84 | 90 | 8 |
 | JavaScript | 379 | 50 | 13 | 13 |
 
@@ -37,22 +37,22 @@ Total: **40,595** lines of code across **242** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 64,445 · **Forks**: 3,229 · **Open issues**: 2,502 · **Contributors**: 135
+- **Stars**: 64,553 · **Forks**: 3,237 · **Open issues**: 2,505 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 728 · **Open PRs**: 53 · **Closed issues**: 2489 · **Open issues**: 13 · **Commits**: 1176
+- **Releases**: 172 · **Merged PRs**: 733 · **Open PRs**: 57 · **Closed issues**: 2496 · **Open issues**: 9 · **Commits**: 1181
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 28 | 140 | 44 | 113 | 5 | 126 |
-| last60d | 2026-09-11 | 52 | 201 | 46 | 198 | 6 | 201 |
-| 90d | 2026-08-12 | 68 | 250 | 51 | 266 | 6 | 245 |
-| last180d | 2026-05-14 | 98 | 360 | 53 | 483 | 9 | 357 |
-| 360d | 2025-11-15 | 100 | 589 | 53 | 1710 | 11 | 609 |
-| last720d | 2024-11-20 | 100 | 728 | 53 | 2487 | 13 | 1176 |
+| 30d | 2026-10-12 | 28 | 143 | 48 | 114 | 2 | 131 |
+| last60d | 2026-09-12 | 50 | 206 | 50 | 202 | 3 | 206 |
+| 90d | 2026-08-13 | 68 | 253 | 55 | 271 | 3 | 250 |
+| last180d | 2026-05-15 | 98 | 364 | 57 | 485 | 5 | 362 |
+| 360d | 2025-11-16 | 100 | 594 | 57 | 1712 | 7 | 614 |
+| last720d | 2024-11-21 | 100 | 733 | 57 | 2494 | 9 | 1181 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:37:32Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:33:33Z._
