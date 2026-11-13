@@ -2,102 +2,102 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 681554c
+  head: c5e26f6
   archived: false
-  latestVersion: "mcpb-v4.6.0"
-  latestRelease: "mcpb-v4.6.0"
+  latestVersion: "mcpb-v4.7.0"
+  latestRelease: "mcpb-v4.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-12T07:30:15Z
+  collectedAt: 2026-11-13T07:08:58Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-11-11
-  lastVersion: 2026-11-09
-  lastRelease: 2026-11-09
+  lastCommit: 2026-11-12
+  lastVersion: 2026-11-12
+  lastRelease: 2026-11-12
   lastPrerelease: 
 popularity:
-  star: 64649
+  star: 64713
   watcher: 163
-  fork: 3241
-  release: 172
-  contributor: 135
-  pullRequest: 1172
-  issue: 2512
+  fork: 3243
+  release: 177
+  contributor: 136
+  pullRequest: 1194
+  issue: 2517
 language:
-  TypeScript: 1503789
+  TypeScript: 1526831
   JavaScript: 11693
   HTML: 10269
   CSS: 5700
   Dockerfile: 912
-totalBytes: 1532363
+totalBytes: 1555405
 recent:
   last30d:
-    since: 2026-10-13
-    release: 28
-    mergedPR: 164
-    openPR: 29
-    closedIssue: 110
-    openIssue: 7
-    commit: 164
-  last60d:
-    since: 2026-09-13
-    release: 50
-    mergedPR: 239
-    openPR: 29
-    closedIssue: 201
-    openIssue: 8
-    commit: 239
-  last90d:
-    since: 2026-08-14
-    release: 68
-    mergedPR: 284
-    openPR: 33
-    closedIssue: 271
-    openIssue: 8
-    commit: 283
-  last180d:
-    since: 2026-05-16
-    release: 98
-    mergedPR: 397
-    openPR: 36
-    closedIssue: 486
-    openIssue: 10
-    commit: 395
-  last360d:
-    since: 2025-11-17
-    release: 100
-    mergedPR: 625
-    openPR: 36
-    closedIssue: 1708
+    since: 2026-10-14
+    release: 25
+    mergedPR: 173
+    openPR: 40
+    closedIssue: 105
     openIssue: 12
-    commit: 647
-  last720d:
-    since: 2024-11-22
+    commit: 175
+  last60d:
+    since: 2026-09-14
+    release: 55
+    mergedPR: 248
+    openPR: 40
+    closedIssue: 200
+    openIssue: 13
+    commit: 250
+  last90d:
+    since: 2026-08-15
+    release: 73
+    mergedPR: 294
+    openPR: 44
+    closedIssue: 270
+    openIssue: 13
+    commit: 294
+  last180d:
+    since: 2026-05-17
     release: 100
-    mergedPR: 766
-    openPR: 36
+    mergedPR: 408
+    openPR: 47
+    closedIssue: 485
+    openIssue: 15
+    commit: 406
+  last360d:
+    since: 2025-11-18
+    release: 100
+    mergedPR: 635
+    openPR: 47
+    closedIssue: 1696
+    openIssue: 17
+    commit: 658
+  last720d:
+    since: 2024-11-23
+    release: 100
+    mergedPR: 777
+    openPR: 47
     closedIssue: 2496
-    openIssue: 14
-    commit: 1214
+    openIssue: 19
+    commit: 1225
 total:
-  release: 172
-  mergedPR: 766
-  openPR: 36
+  release: 177
+  mergedPR: 777
+  openPR: 47
   closedIssue: 2498
-  openIssue: 14
-  commit: 1214
+  openIssue: 19
+  commit: 1225
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-12T07:30:17Z
+collectedAt: 2026-11-13T07:09:01Z
 loc:
   TypeScript:
-    code: 26572
-    comments: 1700
-    blanks: 3280
+    code: 27018
+    comments: 1764
+    blanks: 3345
     files: 178
   Yaml:
-    code: 8533
+    code: 8397
     comments: 6
-    blanks: 874
+    blanks: 883
     files: 5
   Json:
     code: 2799
@@ -141,15 +141,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6518
-    blanks: 2968
+    comments: 6536
+    blanks: 2985
     files: 60
 total:
-  code: 44458
-  comments: 8489
-  blanks: 7295
+  code: 44771
+  comments: 8571
+  blanks: 7386
   files: 317
 ---
 
 ---
-{"id":439151474,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4aLOty","tag_name":"@upstash/context7-mcp@4.6.0","target_commitish":"master","name":"@upstash/context7-mcp@4.6.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-09T13:12:40Z","updated_at":"2026-11-09T13:13:22Z","published_at":"2026-11-09T13:13:22Z","assets":[],"body":"### Minor Changes\n\n- 2111b92: Add the `query-code` MCP tool and the `ctx7 code` command. They search and read a library's source code at the version its docs describe: `grep` with ripgrep's options, plus `definition`, `references`, `outline`, `read` and `list`. `ctx7 library` marks the libraries whose source is searchable, and `resolve-library-id` does so with the research preview on. The MCP tool is part of the research preview: it is listed only with `--research-preview`, `CONTEXT7_RESEARCH_PREVIEW=1` or `?research_preview=1`.\n- 7765f35: Add the `get-upgrade-guide` research preview tool: everything that changes between two versions of a library in one response, from the release notes and guides of every release in between and the public API diff of both versions."}
+{"id":442703196,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4aYx1c","tag_name":"@upstash/context7-tools-ai-sdk@1.0.4","target_commitish":"master","name":"@upstash/context7-tools-ai-sdk@1.0.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-12T09:01:52Z","updated_at":"2026-11-12T09:03:18Z","published_at":"2026-11-12T09:03:18Z","assets":[],"body":"### Patch Changes\n\n- bdd9bf7: `resolveLibraryId` returns the SDK's \"No libraries found\" message when nothing matches, and `queryDocs` returns its \"No documentation found\" message for an unknown library ID. Other errors no longer end with \".. Check your API key and try again.\""}
