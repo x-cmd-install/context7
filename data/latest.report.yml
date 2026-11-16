@@ -7,7 +7,7 @@ about:
   latestVersion: "mcpb-v4.7.0"
   latestRelease: "mcpb-v4.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-15T07:04:58Z
+  collectedAt: 2026-11-16T06:55:26Z
 timeline:
   created: 2025-03-26
   lastCommit: 2026-11-14
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-11-12
   lastPrerelease: 
 popularity:
-  star: 64822
+  star: 64891
   watcher: 163
-  fork: 3251
+  fork: 3258
   release: 177
   contributor: 136
-  pullRequest: 1202
-  issue: 2525
+  pullRequest: 1203
+  issue: 2527
 language:
   TypeScript: 1528547
   JavaScript: 11693
@@ -31,63 +31,63 @@ language:
 totalBytes: 1557121
 recent:
   last30d:
-    since: 2026-10-16
-    release: 23
-    mergedPR: 172
-    openPR: 24
-    closedIssue: 106
+    since: 2026-10-17
+    release: 21
+    mergedPR: 171
+    openPR: 25
+    closedIssue: 98
     openIssue: 8
-    commit: 187
+    commit: 147
   last60d:
-    since: 2026-09-16
+    since: 2026-09-17
     release: 53
-    mergedPR: 253
-    openPR: 24
-    closedIssue: 208
+    mergedPR: 251
+    openPR: 25
+    closedIssue: 210
     openIssue: 9
-    commit: 262
+    commit: 251
   last90d:
-    since: 2026-08-17
+    since: 2026-08-18
     release: 73
-    mergedPR: 303
-    openPR: 28
-    closedIssue: 277
+    mergedPR: 300
+    openPR: 29
+    closedIssue: 278
     openIssue: 9
-    commit: 306
+    commit: 298
   last180d:
-    since: 2026-05-19
+    since: 2026-05-20
     release: 100
-    mergedPR: 417
-    openPR: 31
-    closedIssue: 487
+    mergedPR: 414
+    openPR: 32
+    closedIssue: 484
     openIssue: 10
-    commit: 418
+    commit: 408
   last360d:
-    since: 2025-11-20
+    since: 2025-11-21
     release: 100
     mergedPR: 645
-    openPR: 31
-    closedIssue: 1697
+    openPR: 32
+    closedIssue: 1696
     openIssue: 13
-    commit: 670
+    commit: 668
   last720d:
-    since: 2024-11-25
+    since: 2024-11-26
     release: 100
     mergedPR: 789
-    openPR: 31
-    closedIssue: 2508
+    openPR: 32
+    closedIssue: 2510
     openIssue: 15
     commit: 1237
 total:
   release: 177
   mergedPR: 789
-  openPR: 31
-  closedIssue: 2510
+  openPR: 32
+  closedIssue: 2512
   openIssue: 15
   commit: 1237
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-15T07:05:01Z
+collectedAt: 2026-11-16T06:55:29Z
 loc:
   TypeScript:
     code: 27065
