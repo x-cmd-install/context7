@@ -2,105 +2,105 @@ about:
   description: "Context7 Platform -- Up-to-date docs for AI agents"
   license: MIT
   homepage: https://context7.com
-  head: 4087030
+  head: a8de90a
   archived: false
-  latestVersion: "mcpb-v4.7.0"
-  latestRelease: "mcpb-v4.7.0"
+  latestVersion: "ctx7@0.12.1"
+  latestRelease: "ctx7@0.12.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-16T06:55:26Z
+  collectedAt: 2026-11-17T09:28:47Z
 timeline:
   created: 2025-03-26
-  lastCommit: 2026-11-14
-  lastVersion: 2026-11-12
-  lastRelease: 2026-11-12
+  lastCommit: 2026-11-17
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
   lastPrerelease: 
 popularity:
-  star: 64891
+  star: 64968
   watcher: 163
-  fork: 3258
-  release: 177
+  fork: 3264
+  release: 182
   contributor: 136
-  pullRequest: 1203
-  issue: 2527
+  pullRequest: 1221
+  issue: 2531
 language:
-  TypeScript: 1528547
+  TypeScript: 1548904
   JavaScript: 11693
   HTML: 10269
   CSS: 5700
   Dockerfile: 912
-totalBytes: 1557121
+totalBytes: 1577478
 recent:
   last30d:
-    since: 2026-10-17
-    release: 21
-    mergedPR: 171
-    openPR: 25
-    closedIssue: 98
-    openIssue: 8
-    commit: 147
+    since: 2026-10-18
+    release: 26
+    mergedPR: 182
+    openPR: 27
+    closedIssue: 99
+    openIssue: 7
+    commit: 156
   last60d:
-    since: 2026-09-17
-    release: 53
-    mergedPR: 251
-    openPR: 25
-    closedIssue: 210
-    openIssue: 9
-    commit: 251
+    since: 2026-09-18
+    release: 58
+    mergedPR: 260
+    openPR: 27
+    closedIssue: 215
+    openIssue: 8
+    commit: 260
   last90d:
-    since: 2026-08-18
-    release: 73
-    mergedPR: 300
-    openPR: 29
-    closedIssue: 278
-    openIssue: 9
-    commit: 298
+    since: 2026-08-19
+    release: 77
+    mergedPR: 311
+    openPR: 31
+    closedIssue: 282
+    openIssue: 8
+    commit: 307
   last180d:
-    since: 2026-05-20
+    since: 2026-05-21
     release: 100
-    mergedPR: 414
-    openPR: 32
-    closedIssue: 484
-    openIssue: 10
-    commit: 408
+    mergedPR: 424
+    openPR: 33
+    closedIssue: 487
+    openIssue: 9
+    commit: 417
   last360d:
-    since: 2025-11-21
+    since: 2025-11-22
     release: 100
-    mergedPR: 645
-    openPR: 32
-    closedIssue: 1696
-    openIssue: 13
-    commit: 668
+    mergedPR: 653
+    openPR: 33
+    closedIssue: 1698
+    openIssue: 12
+    commit: 677
   last720d:
-    since: 2024-11-26
+    since: 2024-11-27
     release: 100
-    mergedPR: 789
-    openPR: 32
-    closedIssue: 2510
-    openIssue: 15
-    commit: 1237
+    mergedPR: 800
+    openPR: 33
+    closedIssue: 2515
+    openIssue: 14
+    commit: 1246
 total:
-  release: 177
-  mergedPR: 789
-  openPR: 32
-  closedIssue: 2512
-  openIssue: 15
-  commit: 1237
+  release: 182
+  mergedPR: 800
+  openPR: 33
+  closedIssue: 2517
+  openIssue: 14
+  commit: 1246
 ---
 path: /home/runner/.x-repo/github.com/upstash/context7
-collectedAt: 2026-11-16T06:55:29Z
+collectedAt: 2026-11-17T09:28:50Z
 loc:
   TypeScript:
-    code: 27065
-    comments: 1769
-    blanks: 3355
-    files: 178
+    code: 27465
+    comments: 1812
+    blanks: 3397
+    files: 180
   Yaml:
     code: 8397
     comments: 6
     blanks: 883
     files: 5
   Json:
-    code: 2799
+    code: 2803
     comments: 0
     blanks: 0
     files: 39
@@ -141,15 +141,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6536
-    blanks: 2985
+    comments: 6562
+    blanks: 3002
     files: 60
 total:
-  code: 44818
-  comments: 8576
-  blanks: 7396
-  files: 317
+  code: 45225
+  comments: 8645
+  blanks: 7455
+  files: 319
 ---
 
 ---
-{"id":442703196,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4aYx1c","tag_name":"@upstash/context7-tools-ai-sdk@1.0.4","target_commitish":"master","name":"@upstash/context7-tools-ai-sdk@1.0.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-12T09:01:52Z","updated_at":"2026-11-12T09:03:18Z","published_at":"2026-11-12T09:03:18Z","assets":[],"body":"### Patch Changes\n\n- bdd9bf7: `resolveLibraryId` returns the SDK's \"No libraries found\" message when nothing matches, and `queryDocs` returns its \"No documentation found\" message for an unknown library ID. Other errors no longer end with \".. Check your API key and try again.\""}
+{"id":447299685,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOPWeNc4aqUBl","tag_name":"ctx7@0.12.1","target_commitish":"master","name":"ctx7@0.12.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-16T16:30:56Z","updated_at":"2026-11-16T16:31:48Z","published_at":"2026-11-16T16:31:48Z","assets":[],"body":"### Patch Changes\n\n- 3ec0de0: `ctx7` reads the deployment URL from `CONTEXT7_BASE_URL` when `--base-url` is not passed, so on-premise users set it once instead of on every command. `--base-url` still wins when both are set, and a custom URL from either source turns off the update check and telemetry.\n\n  For a custom deployment, `ctx7` no longer sends the `ctx7 login` session (or refreshes it against that host); it authenticates with `CONTEXT7_API_KEY` only."}

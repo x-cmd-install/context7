@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/442703196",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/442703196/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/442703196/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-tools-ai-sdk%401.0.4",
-  "id": 442703196,
+  "url": "https://api.github.com/repos/upstash/context7/releases/447299685",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/447299685/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/447299685/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/ctx7%400.12.1",
+  "id": 447299685,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4aYx1c",
-  "tag_name": "@upstash/context7-tools-ai-sdk@1.0.4",
+  "node_id": "RE_kwDOOPWeNc4aqUBl",
+  "tag_name": "ctx7@0.12.1",
   "target_commitish": "master",
-  "name": "@upstash/context7-tools-ai-sdk@1.0.4",
+  "name": "ctx7@0.12.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T09:01:52Z",
-  "updated_at": "2026-11-12T09:03:18Z",
-  "published_at": "2026-11-12T09:03:18Z",
+  "created_at": "2026-11-16T16:30:56Z",
+  "updated_at": "2026-11-16T16:31:48Z",
+  "published_at": "2026-11-16T16:31:48Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-tools-ai-sdk@1.0.4",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-tools-ai-sdk@1.0.4",
-  "body": "### Patch Changes\n\n- bdd9bf7: `resolveLibraryId` returns the SDK's \"No libraries found\" message when nothing matches, and `queryDocs` returns its \"No documentation found\" message for an unknown library ID. Other errors no longer end with \".. Check your API key and try again.\""
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/ctx7@0.12.1",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/ctx7@0.12.1",
+  "body": "### Patch Changes\n\n- 3ec0de0: `ctx7` reads the deployment URL from `CONTEXT7_BASE_URL` when `--base-url` is not passed, so on-premise users set it once instead of on every command. `--base-url` still wins when both are set, and a custom URL from either source turns off the update check and telemetry.\n\n  For a custom deployment, `ctx7` no longer sends the `ctx7 login` session (or refreshes it against that host); it authenticates with `CONTEXT7_API_KEY` only."
 }
