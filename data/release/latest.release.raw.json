@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/447299685",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/447299685/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/447299685/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/ctx7%400.12.1",
-  "id": 447299685,
+  "url": "https://api.github.com/repos/upstash/context7/releases/448697230",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/448697230/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/448697230/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-opencode%400.2.2",
+  "id": 448697230,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4aqUBl",
-  "tag_name": "ctx7@0.12.1",
+  "node_id": "RE_kwDOOPWeNc4avpOO",
+  "tag_name": "@upstash/context7-opencode@0.2.2",
   "target_commitish": "master",
-  "name": "ctx7@0.12.1",
+  "name": "@upstash/context7-opencode@0.2.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T16:30:56Z",
-  "updated_at": "2026-11-16T16:31:48Z",
-  "published_at": "2026-11-16T16:31:48Z",
+  "created_at": "2026-11-17T13:50:05Z",
+  "updated_at": "2026-11-17T13:51:10Z",
+  "published_at": "2026-11-17T13:51:10Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/ctx7@0.12.1",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/ctx7@0.12.1",
-  "body": "### Patch Changes\n\n- 3ec0de0: `ctx7` reads the deployment URL from `CONTEXT7_BASE_URL` when `--base-url` is not passed, so on-premise users set it once instead of on every command. `--base-url` still wins when both are set, and a custom URL from either source turns off the update check and telemetry.\n\n  For a custom deployment, `ctx7` no longer sends the `ctx7 login` session (or refreshes it against that host); it authenticates with `CONTEXT7_API_KEY` only."
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-opencode@0.2.2",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-opencode@0.2.2",
+  "body": "### Patch Changes\n\n- 7fe6e09: The rules and skills that `ctx7 setup` and the plugins install are back to their text from before the source code and upgrade guide tools: no `query-code`, `ctx7 code` or `get-upgrade-guide` guidance. The MCP server describes its experimental tools only to users who turned them on."
 }
