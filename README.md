@@ -14,15 +14,15 @@ x install context7
 
 ## Code insight
 
-Total: **42,451** lines of code across **247** files in the top 5 languages.
+Total: **42,646** lines of code across **251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 28,387 | 1,926 | 3,479 | 182 |
+| TypeScript | 28,564 | 1,941 | 3,510 | 185 |
 | Yaml | 8,397 | 6 | 883 | 5 |
-| Json | 2,803 | 0 | 0 | 39 |
+| Json | 2,804 | 0 | 0 | 39 |
 | Tsx | 2,080 | 84 | 90 | 8 |
-| JavaScript | 379 | 50 | 13 | 13 |
+| JavaScript | 396 | 57 | 14 | 14 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **42,451** lines of code across **247** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mcpb-v4.7.3` (2026-11-17)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 65,103 · **Forks**: 3,271 · **Open issues**: 2,544 · **Contributors**: 136
+- **Stars**: 65,156 · **Forks**: 3,277 · **Open issues**: 2,550 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 812 · **Open PRs**: 39 · **Closed issues**: 2523 · **Open issues**: 21 · **Commits**: 1258
+- **Releases**: 188 · **Merged PRs**: 820 · **Open PRs**: 37 · **Closed issues**: 2535 · **Open issues**: 15 · **Commits**: 1266
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 27 | 175 | 33 | 99 | 14 | 168 |
-| last60d | 2026-09-20 | 64 | 270 | 33 | 219 | 14 | 272 |
-| 90d | 2026-08-21 | 83 | 320 | 37 | 285 | 15 | 319 |
-| last180d | 2026-05-23 | 100 | 434 | 39 | 488 | 16 | 429 |
-| 360d | 2025-11-24 | 100 | 663 | 39 | 1690 | 19 | 689 |
-| last720d | 2024-11-29 | 100 | 812 | 39 | 2521 | 21 | 1258 |
+| 30d | 2026-10-21 | 27 | 174 | 32 | 103 | 8 | 176 |
+| last60d | 2026-09-21 | 64 | 275 | 32 | 230 | 8 | 280 |
+| 90d | 2026-08-22 | 82 | 328 | 35 | 297 | 9 | 327 |
+| last180d | 2026-05-24 | 100 | 442 | 37 | 500 | 10 | 437 |
+| 360d | 2025-11-25 | 100 | 671 | 37 | 1696 | 13 | 697 |
+| last720d | 2024-11-30 | 100 | 820 | 37 | 2533 | 15 | 1266 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:43:49Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:04:13Z._
