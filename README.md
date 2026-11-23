@@ -33,26 +33,26 @@ Total: **42,647** lines of code across **251** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mcpb-v4.7.3` (2026-11-17)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 
 ## Popularity
 
-- **Stars**: 65,254 · **Forks**: 3,262 · **Open issues**: 2,556 · **Contributors**: 136
+- **Stars**: 65,308 · **Forks**: 3,269 · **Open issues**: 2,565 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 821 · **Open PRs**: 39 · **Closed issues**: 2539 · **Open issues**: 17 · **Commits**: 1267
+- **Releases**: 188 · **Merged PRs**: 822 · **Open PRs**: 39 · **Closed issues**: 2541 · **Open issues**: 24 · **Commits**: 1268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 27 | 161 | 34 | 103 | 10 | 177 |
-| last60d | 2026-09-23 | 61 | 273 | 34 | 230 | 10 | 281 |
-| 90d | 2026-08-24 | 82 | 327 | 37 | 294 | 11 | 328 |
-| last180d | 2026-05-26 | 100 | 441 | 39 | 498 | 12 | 438 |
-| 360d | 2025-11-27 | 100 | 672 | 39 | 1688 | 15 | 698 |
-| last720d | 2024-12-02 | 100 | 821 | 39 | 2537 | 17 | 1267 |
+| 30d | 2026-10-24 | 25 | 162 | 34 | 103 | 17 | 0 |
+| last60d | 2026-09-24 | 61 | 272 | 34 | 224 | 17 | 0 |
+| 90d | 2026-08-25 | 82 | 326 | 37 | 294 | 18 | 0 |
+| last180d | 2026-05-27 | 100 | 442 | 39 | 498 | 19 | 0 |
+| 360d | 2025-11-28 | 100 | 668 | 39 | 1680 | 22 | 0 |
+| last720d | 2024-12-03 | 100 | 822 | 39 | 2539 | 24 | 1268 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context7 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:07:05Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:15:30Z._
