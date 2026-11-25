@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/448697230",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/448697230/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/448697230/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-opencode%400.2.2",
-  "id": 448697230,
+  "url": "https://api.github.com/repos/upstash/context7/releases/456895240",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/456895240/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/456895240/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-pi%400.2.0",
+  "id": 456895240,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4avpOO",
-  "tag_name": "@upstash/context7-opencode@0.2.2",
+  "node_id": "RE_kwDOOPWeNc4bO6sI",
+  "tag_name": "@upstash/context7-pi@0.2.0",
   "target_commitish": "master",
-  "name": "@upstash/context7-opencode@0.2.2",
+  "name": "@upstash/context7-pi@0.2.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-17T13:50:05Z",
-  "updated_at": "2026-11-17T13:51:10Z",
-  "published_at": "2026-11-17T13:51:10Z",
+  "created_at": "2026-11-24T13:48:59Z",
+  "updated_at": "2026-11-24T14:41:19Z",
+  "published_at": "2026-11-24T14:41:19Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-opencode@0.2.2",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-opencode@0.2.2",
-  "body": "### Patch Changes\n\n- 7fe6e09: The rules and skills that `ctx7 setup` and the plugins install are back to their text from before the source code and upgrade guide tools: no `query-code`, `ctx7 code` or `get-upgrade-guide` guidance. The MCP server describes its experimental tools only to users who turned them on."
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-pi@0.2.0",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-pi@0.2.0",
+  "body": "### Minor Changes\n\n- 32dccfd: Agents pass the version a project uses as its own value, not as a suffix of the library ID. `query-docs` (MCP and pi) takes a `version` input and `ctx7 docs` a `--tag` option, sent to `/v2/context` as `version`; Context7 serves that version or the closest one it has. `resolve-library-id` no longer lists versions."
 }
