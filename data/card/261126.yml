@@ -1,0 +1,154 @@
+about:
+  description: "Context7 Platform -- Up-to-date docs for AI agents"
+  license: MIT
+  homepage: https://context7.com
+  head: 6f44a28
+  archived: false
+  latestVersion: "mcpb-v4.8.0"
+  latestRelease: "mcpb-v4.8.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-26T09:13:47Z
+timeline:
+  created: 2025-03-26
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 
+popularity:
+  star: 65488
+  watcher: 165
+  fork: 3273
+  release: 192
+  contributor: 136
+  pullRequest: 1284
+  issue: 2578
+language:
+  TypeScript: 1632032
+  JavaScript: 12674
+  HTML: 10269
+  CSS: 5700
+  Dockerfile: 912
+totalBytes: 1661587
+recent:
+  last30d:
+    since: 2026-10-27
+    release: 29
+    mergedPR: 164
+    openPR: 45
+    closedIssue: 117
+    openIssue: 6
+    commit: 176
+  last60d:
+    since: 2026-09-27
+    release: 65
+    mergedPR: 286
+    openPR: 46
+    closedIssue: 244
+    openIssue: 6
+    commit: 289
+  last90d:
+    since: 2026-08-28
+    release: 85
+    mergedPR: 330
+    openPR: 49
+    closedIssue: 306
+    openIssue: 7
+    commit: 335
+  last180d:
+    since: 2026-05-30
+    release: 100
+    mergedPR: 458
+    openPR: 51
+    closedIssue: 513
+    openIssue: 8
+    commit: 452
+  last360d:
+    since: 2025-12-01
+    release: 100
+    mergedPR: 676
+    openPR: 51
+    closedIssue: 1690
+    openIssue: 11
+    commit: 699
+  last720d:
+    since: 2024-12-06
+    release: 100
+    mergedPR: 838
+    openPR: 51
+    closedIssue: 2563
+    openIssue: 13
+    commit: 1284
+total:
+  release: 192
+  mergedPR: 838
+  openPR: 51
+  closedIssue: 2565
+  openIssue: 13
+  commit: 1284
+---
+path: /home/runner/.x-repo/github.com/upstash/context7
+collectedAt: 2026-11-26T09:13:51Z
+loc:
+  TypeScript:
+    code: 29259
+    comments: 1988
+    blanks: 3618
+    files: 186
+  Yaml:
+    code: 8397
+    comments: 6
+    blanks: 883
+    files: 5
+  Json:
+    code: 2809
+    comments: 0
+    blanks: 0
+    files: 39
+  Tsx:
+    code: 2080
+    comments: 84
+    blanks: 90
+    files: 8
+  JavaScript:
+    code: 396
+    comments: 57
+    blanks: 14
+    files: 14
+  Html:
+    code: 150
+    comments: 0
+    blanks: 5
+    files: 3
+  Css:
+    code: 136
+    comments: 20
+    blanks: 5
+    files: 1
+  Svg:
+    code: 55
+    comments: 0
+    blanks: 0
+    files: 8
+  Jsx:
+    code: 46
+    comments: 3
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 18
+    comments: 6
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6409
+    blanks: 2944
+    files: 60
+total:
+  code: 47044
+  comments: 8675
+  blanks: 7619
+  files: 326
+---
+
+---
