@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/upstash/context7/releases/456895240",
-  "assets_url": "https://api.github.com/repos/upstash/context7/releases/456895240/assets",
-  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/456895240/assets{?name,label}",
-  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-pi%400.2.0",
-  "id": 456895240,
+  "url": "https://api.github.com/repos/upstash/context7/releases/460338856",
+  "assets_url": "https://api.github.com/repos/upstash/context7/releases/460338856/assets",
+  "upload_url": "https://uploads.github.com/repos/upstash/context7/releases/460338856/assets{?name,label}",
+  "html_url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.9.1",
+  "id": 460338856,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOPWeNc4bO6sI",
-  "tag_name": "@upstash/context7-pi@0.2.0",
+  "node_id": "RE_kwDOOPWeNc4bcDao",
+  "tag_name": "@upstash/context7-mcp@4.9.1",
   "target_commitish": "master",
-  "name": "@upstash/context7-pi@0.2.0",
+  "name": "@upstash/context7-mcp@4.9.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-24T13:48:59Z",
-  "updated_at": "2026-11-24T14:41:19Z",
-  "published_at": "2026-11-24T14:41:19Z",
+  "created_at": "2026-11-27T08:36:10Z",
+  "updated_at": "2026-11-27T08:36:51Z",
+  "published_at": "2026-11-27T08:36:51Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-pi@0.2.0",
-  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-pi@0.2.0",
-  "body": "### Minor Changes\n\n- 32dccfd: Agents pass the version a project uses as its own value, not as a suffix of the library ID. `query-docs` (MCP and pi) takes a `version` input and `ctx7 docs` a `--tag` option, sent to `/v2/context` as `version`; Context7 serves that version or the closest one it has. `resolve-library-id` no longer lists versions."
+  "tarball_url": "https://api.github.com/repos/upstash/context7/tarball/@upstash/context7-mcp@4.9.1",
+  "zipball_url": "https://api.github.com/repos/upstash/context7/zipball/@upstash/context7-mcp@4.9.1",
+  "body": "### Patch Changes\n\n- 41f84a1: The hosted HTTP server sends the version of the snapshots it holds in `X-Context7-Snapshot-Version`, so polls without a change skip the download again."
 }
